@@ -1,0 +1,133 @@
+run,log_line,time_in_log,event,generation_tok_s,mean_acceptance_length,accepted_tok_s,drafted_tok_s,accepted,drafted,per_position_acceptance,acceptance_pct
+baseline-server,170,10-21 14:26:51,generation,0.9,,,,,,,
+baseline-server,173,10-21 14:27:01,generation,8.3,,,,,,,
+baseline-server,174,10-21 14:27:11,generation,0.0,,,,,,,
+baseline-server,176,10-21 14:32:41,generation,31.6,,,,,,,
+baseline-server,179,10-21 14:32:51,generation,57.7,,,,,,,
+baseline-server,182,10-21 14:33:01,generation,57.8,,,,,,,
+baseline-server,186,10-21 14:33:11,generation,57.7,,,,,,,
+baseline-server,187,10-21 14:33:21,generation,0.0,,,,,,,
+mtp-full-vocab-server,210,10-21 15:10:45,generation,48.0,,,,,,,
+mtp-full-vocab-server,211,10-21 15:10:45,speculation,,2.40,0.63,1.36,279,600,"0.710, 0.445, 0.240",46.5
+mtp-full-vocab-server,215,10-21 15:10:55,generation,3.2,,,,,,,
+mtp-full-vocab-server,216,10-21 15:10:55,speculation,,1.88,1.50,5.10,15,51,"0.471, 0.235, 0.176",29.4
+mtp-full-vocab-server,217,10-21 15:11:05,generation,0.0,,,,,,,
+mtp-k2-server,207,10-21 15:27:52,generation,13.3,,,,,,,
+mtp-k2-server,208,10-21 15:27:52,speculation,,2.10,1.10,2.01,69,126,"0.651, 0.444",54.8
+mtp-k2-server,213,10-21 15:28:02,generation,95.9,,,,,,,
+mtp-k2-server,214,10-21 15:28:02,speculation,,2.21,52.69,86.79,527,868,"0.714, 0.500",60.7
+mtp-k2-server,218,10-21 15:28:12,generation,95.6,,,,,,,
+mtp-k2-server,219,10-21 15:28:12,speculation,,2.18,52.00,87.80,520,878,"0.704, 0.481",59.2
+mtp-k2-server,220,10-21 15:28:22,generation,0.0,,,,,,,
+mtp-k4-server,223,10-21 15:24:18,generation,11.1,,,,,,,
+mtp-k4-server,224,10-21 15:24:18,speculation,,2.39,2.89,8.31,64,184,"0.652, 0.413, 0.217, 0.109",34.8
+mtp-k4-server,229,10-21 15:24:28,generation,92.2,,,,,,,
+mtp-k4-server,230,10-21 15:24:28,speculation,,2.42,54.10,152.39,541,1524,"0.703, 0.399, 0.207, 0.110",35.5
+mtp-k4-server,233,10-21 15:24:38,generation,93.2,,,,,,,
+mtp-k4-server,234,10-21 15:24:38,speculation,,2.41,54.60,154.39,546,1544,"0.707, 0.402, 0.199, 0.106",35.4
+mtp-k4-server,236,10-21 15:24:48,generation,8.3,,,,,,,
+mtp-k4-server,237,10-21 15:24:48,speculation,,2.40,4.90,14.00,49,140,"0.600, 0.400, 0.286, 0.114",35.0
+mtp-k4-server,238,10-21 15:24:58,generation,0.0,,,,,,,
+mtp-prefix-cache-server,229,10-21 15:36:44,generation,2.4,,,,,,,
+mtp-prefix-cache-server,230,10-21 15:36:44,speculation,,4.00,0.25,0.25,18,18,"1.000, 1.000, 1.000",100.0
+mtp-prefix-cache-server,231,10-21 15:36:54,generation,0.0,,,,,,,
+mtp-prefix-cache-server,242,10-21 15:40:24,generation,2.4,,,,,,,
+mtp-prefix-cache-server,243,10-21 15:40:24,speculation,,4.00,0.08,0.08,18,18,"1.000, 1.000, 1.000",100.0
+mtp-prefix-cache-server,252,10-21 15:40:34,generation,2.4,,,,,,,
+mtp-prefix-cache-server,253,10-21 15:40:34,speculation,,4.00,1.80,1.80,18,18,"1.000, 1.000, 1.000",100.0
+mtp-prefix-cache-server,254,10-21 15:40:44,generation,0.0,,,,,,,
+mtp-prefix-cache-server,263,10-21 15:41:34,generation,2.4,,,,,,,
+mtp-prefix-cache-server,264,10-21 15:41:34,speculation,,4.00,0.30,0.30,18,18,"1.000, 1.000, 1.000",100.0
+mtp-prefix-cache-server,265,10-21 15:41:44,generation,0.0,,,,,,,
+mtp-prefix-cache-server,269,10-21 15:43:24,generation,9.1,,,,,,,
+mtp-prefix-cache-server,270,10-21 15:43:24,speculation,,3.33,0.57,0.74,63,81,"0.963, 0.741, 0.630",77.8
+mtp-prefix-cache-server,272,10-21 15:43:34,generation,93.3,,,,,,,
+mtp-prefix-cache-server,273,10-21 15:43:34,speculation,,2.88,60.90,97.20,609,972,"0.796, 0.620, 0.463",62.7
+mtp-prefix-cache-server,274,10-21 15:43:44,generation,0.0,,,,,,,
+mtp-prefix-cache-server,277,10-21 15:44:14,generation,34.8,,,,,,,
+mtp-prefix-cache-server,278,10-21 15:44:14,speculation,,3.27,6.02,7.95,241,318,"0.906, 0.755, 0.613",75.8
+mtp-prefix-cache-server,280,10-21 15:44:24,generation,118.3,,,,,,,
+mtp-prefix-cache-server,281,10-21 15:44:24,speculation,,2.96,78.29,119.69,783,1197,"0.805, 0.644, 0.514",65.4
+mtp-prefix-cache-server,283,10-21 15:44:34,generation,51.7,,,,,,,
+mtp-prefix-cache-server,284,10-21 15:44:34,speculation,,2.88,33.80,54.00,338,540,"0.811, 0.606, 0.461",62.6
+mtp-prefix-cache-server,287,10-21 15:44:44,generation,6.4,,,,,,,
+mtp-prefix-cache-server,288,10-21 15:44:44,speculation,,2.78,4.10,6.90,41,69,"0.783, 0.522, 0.478",59.4
+mtp-prefix-cache-server,289,10-21 15:44:54,generation,0.0,,,,,,,
+mtp-prefix-cache-server,292,10-21 15:45:14,generation,55.1,,,,,,,
+mtp-prefix-cache-server,293,10-21 15:45:14,speculation,,3.18,12.57,17.30,377,519,"0.890, 0.711, 0.578",72.6
+mtp-prefix-cache-server,295,10-21 15:45:24,generation,38.6,,,,,,,
+mtp-prefix-cache-server,296,10-21 15:45:24,speculation,,3.32,26.90,34.80,269,348,"0.905, 0.741, 0.672",77.3
+mtp-prefix-cache-server,299,10-21 15:45:34,generation,72.9,,,,,,,
+mtp-prefix-cache-server,300,10-21 15:45:34,speculation,,3.14,49.60,69.59,496,696,"0.841, 0.703, 0.595",71.3
+mtp-prefix-cache-server,302,10-21 15:45:44,generation,83.4,,,,,,,
+mtp-prefix-cache-server,303,10-21 15:45:44,speculation,,2.85,54.20,87.90,542,879,"0.785, 0.614, 0.451",61.7
+mtp-prefix-cache-server,304,10-21 15:45:54,generation,0.0,,,,,,,
+mtp-prefix-cache-server,306,10-21 15:47:14,generation,34.7,,,,,,,
+mtp-prefix-cache-server,307,10-21 15:47:14,speculation,,3.01,2.57,3.83,231,345,"0.817, 0.670, 0.522",67.0
+mtp-prefix-cache-server,309,10-21 15:47:24,generation,67.7,,,,,,,
+mtp-prefix-cache-server,310,10-21 15:47:24,speculation,,2.94,44.70,69.30,447,693,"0.835, 0.632, 0.468",64.5
+mtp-prefix-cache-server,312,10-21 15:47:34,generation,0.0,,,,,,,
+mtp-prefix-cache-server,314,10-21 15:47:44,generation,44.1,,,,,,,
+mtp-prefix-cache-server,315,10-21 15:47:44,speculation,,3.12,14.95,21.15,299,423,"0.872, 0.681, 0.567",70.7
+mtp-prefix-cache-server,316,10-21 15:47:54,generation,0.0,,,,,,,
+mtp-prefix-cache-server,318,10-21 15:48:14,generation,74.0,,,,,,,
+mtp-prefix-cache-server,319,10-21 15:48:14,speculation,,2.92,16.20,25.30,486,759,"0.806, 0.609, 0.506",64.0
+mtp-prefix-cache-server,321,10-21 15:48:24,generation,28.4,,,,,,,
+mtp-prefix-cache-server,322,10-21 15:48:24,speculation,,2.76,18.10,30.90,181,309,"0.786, 0.563, 0.408",58.6
+mtp-prefix-cache-server,323,10-21 15:48:34,generation,0.0,,,,,,,
+mtp-prefix-cache-server,326,10-21 15:48:44,generation,37.6,,,,,,,
+mtp-prefix-cache-server,327,10-21 15:48:44,speculation,,3.26,13.09,17.39,262,348,"0.862, 0.741, 0.655",75.3
+mtp-prefix-cache-server,329,10-21 15:48:54,generation,22.9,,,,,,,
+mtp-prefix-cache-server,330,10-21 15:48:54,speculation,,3.17,15.60,21.60,156,216,"0.917, 0.722, 0.528",72.2
+mtp-prefix-cache-server,332,10-21 15:49:04,generation,39.6,,,,,,,
+mtp-prefix-cache-server,333,10-21 15:49:04,speculation,,2.86,25.70,41.40,257,414,"0.768, 0.609, 0.486",62.1
+mtp-prefix-cache-server,336,10-21 15:49:14,generation,77.0,,,,,,,
+mtp-prefix-cache-server,337,10-21 15:49:14,speculation,,3.08,52.10,75.00,521,750,"0.808, 0.692, 0.584",69.5
+mtp-prefix-cache-server,338,10-21 15:49:24,generation,0.0,,,,,,,
+mtp-prefix-cache-server,340,10-21 15:50:24,generation,100.3,,,,,,,
+mtp-prefix-cache-server,341,10-21 15:50:24,speculation,,3.05,9.61,14.10,673,987,"0.854, 0.681, 0.511",68.2
+mtp-prefix-cache-server,343,10-21 15:50:34,generation,2.1,,,,,,,
+mtp-prefix-cache-server,344,10-21 15:50:34,speculation,,1.62,0.80,3.90,8,39,"0.462, 0.077, 0.077",20.5
+mtp-prefix-cache-server,346,10-21 15:50:44,generation,90.2,,,,,,,
+mtp-prefix-cache-server,347,10-21 15:50:44,speculation,,2.87,58.70,94.19,587,942,"0.783, 0.634, 0.452",62.3
+mtp-prefix-cache-server,349,10-21 15:50:54,generation,12.2,,,,,,,
+mtp-prefix-cache-server,350,10-21 15:50:54,speculation,,3.57,9.00,10.50,90,105,"1.000, 0.857, 0.714",85.7
+mtp-prefix-cache-server,352,10-21 15:51:04,generation,84.8,,,,,,,
+mtp-prefix-cache-server,353,10-21 15:51:04,speculation,,2.91,55.59,87.29,556,873,"0.801, 0.632, 0.478",63.7
+mtp-prefix-cache-server,355,10-21 15:51:14,generation,17.6,,,,,,,
+mtp-prefix-cache-server,356,10-21 15:51:14,speculation,,3.11,12.00,17.10,120,171,"0.860, 0.684, 0.561",70.2
+mtp-prefix-cache-server,358,10-21 15:51:24,generation,19.1,,,,,,,
+mtp-prefix-cache-server,359,10-21 15:51:24,speculation,,3.11,12.90,18.30,129,183,"0.836, 0.689, 0.590",70.5
+mtp-prefix-cache-server,361,10-21 15:51:34,generation,83.3,,,,,,,
+mtp-prefix-cache-server,362,10-21 15:51:34,speculation,,2.96,55.29,84.59,553,846,"0.840, 0.642, 0.479",65.4
+mtp-prefix-cache-server,363,10-21 15:51:44,generation,0.0,,,,,,,
+mtp-prefix-cache-server,365,10-21 15:51:54,generation,27.3,,,,,,,
+mtp-prefix-cache-server,366,10-21 15:51:54,speculation,,2.80,8.75,14.55,175,291,"0.804, 0.577, 0.423",60.1
+mtp-prefix-cache-server,368,10-21 15:52:04,generation,7.5,,,,,,,
+mtp-prefix-cache-server,369,10-21 15:52:04,speculation,,3.30,5.30,6.90,53,69,"0.913, 0.826, 0.565",76.8
+mtp-prefix-cache-server,372,10-21 15:52:14,generation,10.8,,,,,,,
+mtp-prefix-cache-server,373,10-21 15:52:14,speculation,,2.89,7.00,11.10,70,111,"0.784, 0.595, 0.514",63.1
+mtp-prefix-cache-server,374,10-21 15:52:24,generation,0.0,,,,,,,
+mtp-prefix-cache-server,376,10-21 15:52:44,generation,29.8,,,,,,,
+mtp-prefix-cache-server,377,10-21 15:52:44,speculation,,2.32,5.63,12.80,169,384,"0.672, 0.391, 0.258",44.0
+mtp-prefix-cache-server,379,10-21 15:52:54,generation,20.9,,,,,,,
+mtp-prefix-cache-server,380,10-21 15:52:54,speculation,,2.29,11.70,27.30,117,273,"0.648, 0.407, 0.231",42.9
+mtp-prefix-cache-server,382,10-21 15:53:04,generation,81.5,,,,,,,
+mtp-prefix-cache-server,383,10-21 15:53:04,speculation,,2.48,48.70,98.40,487,984,"0.704, 0.488, 0.293",49.5
+mtp-prefix-cache-server,384,10-21 15:53:14,generation,0.0,,,,,,,
+mtp-small-vocab-server,210,10-21 14:52:49,generation,54.9,,,,,,,
+mtp-small-vocab-server,211,10-21 14:52:49,speculation,,1.29,0.25,2.58,125,1272,"0.177, 0.080, 0.038",9.8
+mtp-small-vocab-server,214,10-21 14:52:59,generation,59.0,,,,,,,
+mtp-small-vocab-server,215,10-21 14:52:59,speculation,,1.28,13.00,138.30,130,1383,"0.167, 0.076, 0.039",9.4
+mtp-small-vocab-server,218,10-21 14:53:09,generation,58.7,,,,,,,
+mtp-small-vocab-server,219,10-21 14:53:09,speculation,,1.28,12.70,138.30,127,1383,"0.163, 0.076, 0.037",9.2
+mtp-small-vocab-server,221,10-21 14:53:19,generation,32.2,,,,,,,
+mtp-small-vocab-server,222,10-21 14:53:19,speculation,,1.36,8.60,71.40,86,714,"0.206, 0.101, 0.055",12.0
+mtp-small-vocab-server,223,10-21 14:53:29,generation,0.0,,,,,,,
+mtp-spec-attn-server,222,10-21 15:16:45,generation,51.9,,,,,,,
+mtp-spec-attn-server,223,10-21 15:16:45,speculation,,2.46,30.72,63.20,382,786,"0.721, 0.454, 0.282",48.6
+mtp-spec-attn-server,228,10-21 15:16:55,generation,100.4,,,,,,,
+mtp-spec-attn-server,229,10-21 15:16:55,speculation,,2.53,60.70,119.10,607,1191,"0.746, 0.486, 0.297",51.0
+mtp-spec-attn-server,231,10-21 15:17:05,generation,39.9,,,,,,,
+mtp-spec-attn-server,232,10-21 15:17:05,speculation,,2.61,24.70,45.90,247,459,"0.778, 0.523, 0.314",53.8
+mtp-spec-attn-server,233,10-21 15:17:15,generation,0.0,,,,,,,

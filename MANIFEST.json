@@ -1,0 +1,2733 @@
+{
+  "files": [
+    {
+      "path": "upstream/HyperQwen/.dockerignore",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.dockerignore",
+      "kind": "upstream",
+      "bytes": 501,
+      "sha256": "50831902b66aa59d7c72733c28155c96f5fc4bcb11116ebe68c6cbbbf2fb2982",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.env.example",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.env.example",
+      "kind": "upstream",
+      "bytes": 5346,
+      "sha256": "a146136eda9389de463ba075c2f4fd8115a5becc03e57c27ba34b1aa5444eea7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.gitattributes",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.gitattributes",
+      "kind": "upstream",
+      "bytes": 224,
+      "sha256": "a4774498fb725c2d8c888740951072778af216ea479490857576febb64cf55a8",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.github/FUNDING.yml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.github/FUNDING.yml",
+      "kind": "upstream",
+      "bytes": 227,
+      "sha256": "986580ba5709a04afa27367f5b77fb34002b19a87dc6797b8951533867a24a91",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.github/ISSUE_TEMPLATE/config.yml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.github/ISSUE_TEMPLATE/config.yml",
+      "kind": "upstream",
+      "bytes": 393,
+      "sha256": "4262895390cfbced7791a14f3e261f54c3fb7dd4c603f875d13b371376c6d79b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.github/ISSUE_TEMPLATE/field-report.yml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.github/ISSUE_TEMPLATE/field-report.yml",
+      "kind": "upstream",
+      "bytes": 3435,
+      "sha256": "b8afd3b0a721b595b7bed86aa4a2087e7594ddb82539f8d72dc95126e3af83ac",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.github/workflows/docker-image.yml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.github/workflows/docker-image.yml",
+      "kind": "upstream",
+      "bytes": 2720,
+      "sha256": "40c9d17be2e47a85b46c96dc7bbc8c7dea1cf3dbf8099c28c20504cdb21ec066",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.github/workflows/patch-integrity.yml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.github/workflows/patch-integrity.yml",
+      "kind": "upstream",
+      "bytes": 8582,
+      "sha256": "352eb6bf2090a5601c8e2519f53b2f6622fb639064bfc0fadcfcefd6fab3e7c4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/.gitignore",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:.gitignore",
+      "kind": "upstream",
+      "bytes": 372,
+      "sha256": "393e7eda1f634302ce4cd3321ced9b13de33824072d43c63e038a2c99d1904b4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/Dockerfile",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:Dockerfile",
+      "kind": "upstream",
+      "bytes": 3720,
+      "sha256": "1d4f9856a336113ebee87f08784a9cb8c583164dc5a176f9b067a3b61f58ca73",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/LICENSE",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:LICENSE",
+      "kind": "upstream",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/Makefile",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:Makefile",
+      "kind": "upstream",
+      "bytes": 2319,
+      "sha256": "fc37579e3bd8e51a824932e46e3d0dc73eb97e4943bf21a655e126f4a3b4481c",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/PATCHES.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:PATCHES.md",
+      "kind": "upstream",
+      "bytes": 18661,
+      "sha256": "faa8f32a69e4462b42f7b556a369046ebb36eb1521591f69eb6c0bb47e199eae",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:README.md",
+      "kind": "upstream",
+      "bytes": 16706,
+      "sha256": "492690903ebbfd08d94da4d91b42171bda4b714b2587aae401db38ca35d62aba",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/batch/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:batch/README.md",
+      "kind": "upstream",
+      "bytes": 13563,
+      "sha256": "99e7ec821870e2e0476f2613a812328aec5c7f8acb1e9d5bf3382f25424c3151",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/batch/qwen-serving.service",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:batch/qwen-serving.service",
+      "kind": "upstream",
+      "bytes": 730,
+      "sha256": "64b3ccd5bdb64da4e3dcabca660fada8155583c96b6bc11de47536e595df5910",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/batch/start_qwen.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:batch/start_qwen.sh",
+      "kind": "upstream",
+      "bytes": 19550,
+      "sha256": "197299c84a644d2f99aabc1b904ac8e6e1f29e16548a7352260ed29e7efaec95",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/README.md",
+      "kind": "upstream",
+      "bytes": 10077,
+      "sha256": "ab5ce476c526400fec925e4b65dac5f80cc0b657ab92362b6cb49514fb84de1a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/act_calib.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/act_calib.py",
+      "kind": "upstream",
+      "bytes": 5625,
+      "sha256": "db7eed198be62d0de78f1c8ea1ba4f59625742813d423a717831d131fcb45ec1",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/api_smoke.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/api_smoke.py",
+      "kind": "upstream",
+      "bytes": 6375,
+      "sha256": "380659b1d962148b8cb818b979542fb187d7017020b3ffa4b4ebdcd18b905250",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/bugb_sweep.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/bugb_sweep.py",
+      "kind": "upstream",
+      "bytes": 4812,
+      "sha256": "92090c5007a797cd6305fc4f1a4aa7887366406b0623eb39a09228114d76b226",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/conc_ladder.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/conc_ladder.py",
+      "kind": "upstream",
+      "bytes": 13871,
+      "sha256": "afbddad12ebc124108634016dcdef55df2fac728739b5e8f79165b4f24ce94d4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/concurrent_collapse.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/concurrent_collapse.py",
+      "kind": "upstream",
+      "bytes": 4195,
+      "sha256": "1f45d808af3b445f5b249b011765cbe582e7efb5fa888d1b3f7a97bdb5483448",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/.gitignore",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/.gitignore",
+      "kind": "upstream",
+      "bytes": 22,
+      "sha256": "13f2ca7e1166bf068eefd19e2dac96bbd6868a04abf4ee4a799be2fca99b4121",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/README.md",
+      "kind": "upstream",
+      "bytes": 1703,
+      "sha256": "fda8407d30cbf84b5e02cc094eef45099b60e23b44af9bff0af64f0a0587e145",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/build_data.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/build_data.py",
+      "kind": "upstream",
+      "bytes": 4137,
+      "sha256": "ba36a8338a899aeff9a5986b58c9bb6a488e3db7fe3a5f89730c329dcba56043",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/data.js",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/data.js",
+      "kind": "upstream",
+      "bytes": 64083,
+      "sha256": "66c97c495a44df6db68a45a13fa240c141279315a021e4cfcf3cc7e5a65af70c",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/demo.js",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/demo.js",
+      "kind": "upstream",
+      "bytes": 59785,
+      "sha256": "0d384c3c34b1f41f6e78abb44673062d1405f2b13b201f2cdbd130f714c25f0d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/index.html",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/index.html",
+      "kind": "upstream",
+      "bytes": 5071,
+      "sha256": "afc398d1ccff3b1f66553f1da32ed680170b60592587b81426691a3117f948aa",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/package.json",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/package.json",
+      "kind": "upstream",
+      "bytes": 255,
+      "sha256": "624a14ca3e056c3d430513ee7560b16ea2c2dfa0e5049d365ad391e6453e466c",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo/render.mjs",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo/render.mjs",
+      "kind": "upstream",
+      "bytes": 6893,
+      "sha256": "c52f1269f0e60841011449fa46774a5f615c44db2b3c340ea1ccac5fd063f51e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/demo_capture.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/demo_capture.py",
+      "kind": "upstream",
+      "bytes": 4025,
+      "sha256": "c1df9994ff465087c08af66fe0e09a4e8df47655585d886d464f0595eb08a273",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/harness.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/harness.py",
+      "kind": "upstream",
+      "bytes": 5244,
+      "sha256": "d0e41ce66077fd194a97e8ce0419890155b8e122e7a34f2a3daebf6e36a6c7e2",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/interleave_dose.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/interleave_dose.py",
+      "kind": "upstream",
+      "bytes": 5964,
+      "sha256": "9207ea84e5ebd4044c3ffad10170fcf40db379e009bb9c925518ec857b86069a",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/labd_accept.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/labd_accept.py",
+      "kind": "upstream",
+      "bytes": 14657,
+      "sha256": "c3f8f5f2b25103784b19b1dc3ccfa89193b9f14a167c81ea702519dd4a6d47c6",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/labd_bench.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/labd_bench.py",
+      "kind": "upstream",
+      "bytes": 5555,
+      "sha256": "26bd1c758f1f3aa3369bb55319007c255588b64d43e761c458f51f46e521efd5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/labd_soak.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/labd_soak.py",
+      "kind": "upstream",
+      "bytes": 5155,
+      "sha256": "d934eea94d86f628cc08c6f75eb1436e73ff164aa0215df6bf9569e614776bfa",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/make_long_corpus.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/make_long_corpus.py",
+      "kind": "upstream",
+      "bytes": 2372,
+      "sha256": "7bfabc18ae665f19abf4123c9880dbd9f3c932be69f605eb66cfdaddd62a3b61",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/mq3d_capacity_property.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/mq3d_capacity_property.py",
+      "kind": "upstream",
+      "bytes": 6512,
+      "sha256": "2c76bdbe7a17188e73112e12c59c35f99ad59f78bcc98c015fd7d872741e8b4c",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/mq3d_layer2_oracle.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/mq3d_layer2_oracle.py",
+      "kind": "upstream",
+      "bytes": 21698,
+      "sha256": "bee13ac38ad2f2b80ef871c62032e2e34a5b388b990177a57fa261534e5f06e5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/mq3d_layer2_verdicts-3090.jsonl",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/mq3d_layer2_verdicts-3090.jsonl",
+      "kind": "upstream",
+      "bytes": 11439,
+      "sha256": "b14a37c312b360fd6292dc97c8284daedfc642c534e82a5f623a8c876cb81e1e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/mq3d_layer2_verdicts.jsonl",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/mq3d_layer2_verdicts.jsonl",
+      "kind": "upstream",
+      "bytes": 11438,
+      "sha256": "d69fd57559a36252757996800339b4e00be96df755fe03f05f35d9a0bc19bd79",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/mq3d_scratch_pool_test.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/mq3d_scratch_pool_test.py",
+      "kind": "upstream",
+      "bytes": 3033,
+      "sha256": "c4d921eb2f974bd9b75ef078f7596c1b74c9ba18cdbc149fdf3880c7cd326126",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/needle_reuse.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/needle_reuse.py",
+      "kind": "upstream",
+      "bytes": 4664,
+      "sha256": "e3bf94940949dac009af19e79ce64f89b3eb945f66dd22f4717d76266b248d13",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/needle_test.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/needle_test.py",
+      "kind": "upstream",
+      "bytes": 1886,
+      "sha256": "5ac27d4fbea77833e8bf56cebaadefffe5ad9fe43a74e4afaa64ebd373c02296",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/prefill_ab.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/prefill_ab.sh",
+      "kind": "upstream",
+      "bytes": 6256,
+      "sha256": "4d701ab3601256baf934b3b9798a6c60d7f7ce5918096c39f800a6d5c61786e8",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/prefix_alternation.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/prefix_alternation.py",
+      "kind": "upstream",
+      "bytes": 13896,
+      "sha256": "c306e38c943f168956b567aa229f90c0e45b476b5744a36990be0b0b1f067e3d",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/prompts_real.jsonl",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/prompts_real.jsonl",
+      "kind": "upstream",
+      "bytes": 3281,
+      "sha256": "27da4fd8b2dcc133b98cec54bc337c34f5acb1b6372cc2fea1d8a92da9c78650",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/quality_battery.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/quality_battery.py",
+      "kind": "upstream",
+      "bytes": 5968,
+      "sha256": "74610d982ba85d642c879a5f8027d6890d7bf68970a6894f8fc8c80d01e8316d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/real_rep.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/real_rep.sh",
+      "kind": "upstream",
+      "bytes": 2728,
+      "sha256": "c90c3c8dde8fd97f8929767108fdc9b2e19699247c9e7807dd6b47e62fc24730",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/replay_offload_serve.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/replay_offload_serve.py",
+      "kind": "upstream",
+      "bytes": 6232,
+      "sha256": "c843b53347f9d13a298d9eaebc90dce621cf838d074b678d889a2db5ffe8246f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/residue_sweep.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/residue_sweep.py",
+      "kind": "upstream",
+      "bytes": 4649,
+      "sha256": "9d84e304a951246eadee4afb8acb27bbc1e1bd70dc7339b84634e0658fb13e2a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/run_benchmarks.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/run_benchmarks.sh",
+      "kind": "upstream",
+      "bytes": 6533,
+      "sha256": "f40c5cb7806dbf8e27cf5aa7549324fb7fa0572240ef4317e42c998fa05bd584",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/seat_ttft.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/seat_ttft.py",
+      "kind": "upstream",
+      "bytes": 3851,
+      "sha256": "bace9376c226f754d43e94f29781d9aa016927f34457674aa42efece62bf05ed",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/spec_attn_ctx_scan.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/spec_attn_ctx_scan.py",
+      "kind": "upstream",
+      "bytes": 5743,
+      "sha256": "7404dc03e97e96143c797829f0b20f86776b1c808d899c044de16a3dade0aaae",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/t4_battery.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/t4_battery.py",
+      "kind": "upstream",
+      "bytes": 30884,
+      "sha256": "996ed738c01dda6740f13d48c9f81c3855863896db8e57d725f85e380b512d8b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_bench_sse_keepalive.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_bench_sse_keepalive.py",
+      "kind": "upstream",
+      "bytes": 2305,
+      "sha256": "1cdf05c7d1ba844ccca9e74b1d8b06584917a9173573191d5983d69ae52848d5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_bool_knobs.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_bool_knobs.sh",
+      "kind": "upstream",
+      "bytes": 2908,
+      "sha256": "4aae1c6ab17a97d24d2b5fd76914d029f0e29c4c0da01e7223378f3ca43f9d91",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_conc_ladder_salt.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_conc_ladder_salt.py",
+      "kind": "upstream",
+      "bytes": 3052,
+      "sha256": "cb059f7bed90287f68112a5c74503d069c257e97efc4d0c6cdded681d599cd0a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_dynamic_k_knob.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_dynamic_k_knob.sh",
+      "kind": "upstream",
+      "bytes": 4751,
+      "sha256": "168e91553339e22aab40ad9865bc6dfd5669e754462ee4888dfaf2020ecca0c7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_fa2_fp8kv_knob.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_fa2_fp8kv_knob.sh",
+      "kind": "upstream",
+      "bytes": 12685,
+      "sha256": "1d3c21a9dbe3120380c924f52da6e2c1fac6c5d0aeff89db685469b641a44183",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_harness.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_harness.py",
+      "kind": "upstream",
+      "bytes": 9959,
+      "sha256": "a58b9e9f4c007b3e416ec967a2b9705a13c82dff269b0304ff02908d5973c207",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_kv_cache_seat_budget.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_kv_cache_seat_budget.py",
+      "kind": "upstream",
+      "bytes": 7333,
+      "sha256": "1367adc6aab5a0aecee3026cab82b1d0ddbcada1852ffcdb3e5021bc5e001af6",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_kv_offload_knob.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_kv_offload_knob.sh",
+      "kind": "upstream",
+      "bytes": 2999,
+      "sha256": "a9242e27a947b1636b7f45cb6b1d07b9ed5990e78e22c737092c18a911d3858a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_kvarn_recycled_pages.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_kvarn_recycled_pages.py",
+      "kind": "upstream",
+      "bytes": 3379,
+      "sha256": "034fce4855efde79351e69fa4315a56ad5cf3701c7e33cbc90076bb1e125e546",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_lookup_kernels.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_lookup_kernels.py",
+      "kind": "upstream",
+      "bytes": 7174,
+      "sha256": "0f25c2abfcf5ae0db74f7f2453a158836a457b216a2fa340c96bf04d7f18b2ba",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_marlin_int8_asym.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_marlin_int8_asym.py",
+      "kind": "upstream",
+      "bytes": 4720,
+      "sha256": "8eea4cd09e83374164470b25ae75610516001220fe6354b8b98f49ef26270a95",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_model_verification.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_model_verification.py",
+      "kind": "upstream",
+      "bytes": 5821,
+      "sha256": "d3f22183574f042c761d4681ad372f77dee0bdfcc3092de8a98913adb3cf0597",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_no_key_bind.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_no_key_bind.sh",
+      "kind": "upstream",
+      "bytes": 5267,
+      "sha256": "9494a9afcf6c8ae3792a85fa297abf3d72c0fcc02cd3a0447e48478b4440a76d",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_prefill_attn_bigpool.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_prefill_attn_bigpool.py",
+      "kind": "upstream",
+      "bytes": 3621,
+      "sha256": "bc8ec70fccebfa694086de8d87f90eb2a877438a98fd5729d6f87f86f07d52e5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_prefix_cache_knob.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_prefix_cache_knob.sh",
+      "kind": "upstream",
+      "bytes": 9093,
+      "sha256": "3f4f0cb38799faaf80a4be4bcbdf04df53c67d8e32fa1e78a02546406b28c2a5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_prepare_crash.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_prepare_crash.py",
+      "kind": "upstream",
+      "bytes": 20975,
+      "sha256": "51e6ecb86c7679419d84008617f213c391816166116d1fc3c4304ae93d89141c",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_prepare_state.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_prepare_state.py",
+      "kind": "upstream",
+      "bytes": 3379,
+      "sha256": "9f8bf01e5d810e1be4223f88c33838319c3cc351c5173681f2883a9324a93647",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_pthfa_attn.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_pthfa_attn.py",
+      "kind": "upstream",
+      "bytes": 14444,
+      "sha256": "ae9d5673587aadca23bfcfe00707b947a7662c82ef8299282c3ed476232e5233",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_pthfa_install_toolchain.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_pthfa_install_toolchain.sh",
+      "kind": "upstream",
+      "bytes": 8062,
+      "sha256": "72587d117bf25c98d562c45cc6cd2bb5db07ef7409b27ed87ab8fea5075f82e2",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_pthfa_knob.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_pthfa_knob.sh",
+      "kind": "upstream",
+      "bytes": 29117,
+      "sha256": "1bfa428e6701ccd4dc87876e0640dee0d84262dfbc2b8274d3e13de77e92903e",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_quant_schema.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_quant_schema.py",
+      "kind": "upstream",
+      "bytes": 4988,
+      "sha256": "df6bb9d100cfb441b1a44c7bf630b995ff78a88aac163b50c552ee7c8098bd2c",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_resident_print.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_resident_print.sh",
+      "kind": "upstream",
+      "bytes": 11336,
+      "sha256": "8793ae07d7c1eb59fff43031bfa8f239c0c3f178dda2e74d43ae6d111068aa30",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_spec_decode_attn.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_spec_decode_attn.py",
+      "kind": "upstream",
+      "bytes": 4536,
+      "sha256": "ff997739c3f23b34a1b54f9fb841fe26bc3630e589662eca0af579db8b5ec75a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_spec_decode_bigpool.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_spec_decode_bigpool.py",
+      "kind": "upstream",
+      "bytes": 4563,
+      "sha256": "1ca80f55901e580444cd5454822ef44d90999d896f26ab28cb6ce0330333399e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_spec_decode_fp8.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_spec_decode_fp8.py",
+      "kind": "upstream",
+      "bytes": 6281,
+      "sha256": "dce236b02a2f55ad8d48cb4e32837638fcc1d5061787d399aee53c127f9e7d24",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_t4_battery.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_t4_battery.py",
+      "kind": "upstream",
+      "bytes": 15226,
+      "sha256": "37c0cbddb08ec1cc4a5cab2ec41721736f2bf212a9c18c3023bcb07d92f0b237",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/test_tp_size.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/test_tp_size.sh",
+      "kind": "upstream",
+      "bytes": 5605,
+      "sha256": "4a55e6f20a0c2a9ac3146c2b896ff826513715a3ca721365f68b8a14b723fadf",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/tune_gdn.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/tune_gdn.py",
+      "kind": "upstream",
+      "bytes": 2248,
+      "sha256": "d78a6a4a3ffd3552cda8db61f525a7e79715093954f0b70df745933b3c11ffd2",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/verbatim.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/verbatim.py",
+      "kind": "upstream",
+      "bytes": 7032,
+      "sha256": "8655d9318d80215ea654cba6fcda2dcdece261e69e7c9498a55aaf7a978300d4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/bench/warmup.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:bench/warmup.sh",
+      "kind": "upstream",
+      "bytes": 3420,
+      "sha256": "b58c6398d306a93fa9595a3e2a3190e74d09353b2e7b38f6c50772e2e0fc4e8d",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/docker-compose.yml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docker-compose.yml",
+      "kind": "upstream",
+      "bytes": 5994,
+      "sha256": "5df40f40009682de72440fe331cb9da9158e490ce9701321731d9bfb3b8ecf08",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docker/entrypoint.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docker/entrypoint.sh",
+      "kind": "upstream",
+      "bytes": 1903,
+      "sha256": "f76aa7e935731853cf98f5ffeb199b67b11a2ec0ca860ea77c3a4e8b14e0ac45",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/docker/prepare.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docker/prepare.sh",
+      "kind": "upstream",
+      "bytes": 7075,
+      "sha256": "b43868769d32f000d36ddc3e2dce05a150f3c915ccf052652abf9e7ae9d5f512",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/docker/requirements.txt",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docker/requirements.txt",
+      "kind": "upstream",
+      "bytes": 1986,
+      "sha256": "39fd35b224cfba538ca5d21ec8d9f1db1ec54e6701eb2a40f2108fbcd6c36423",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/benchmarks.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/benchmarks.md",
+      "kind": "upstream",
+      "bytes": 3562,
+      "sha256": "90aaee49f058ff16a29a9fd973b8ac2c013453461f9ff64ffe3d522c10abcb2f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/clients.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/clients.md",
+      "kind": "upstream",
+      "bytes": 2193,
+      "sha256": "c7606c8581f4da34bd77cb3e01c8a220eca79ab5a08b05d10fea9ee446196a70",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/docker.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/docker.md",
+      "kind": "upstream",
+      "bytes": 15542,
+      "sha256": "4dfed27ffc6b5ec7445cba96d9f115feaf607f7cdf82755dcdbf201db2cf4d05",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/gotchas.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/gotchas.md",
+      "kind": "upstream",
+      "bytes": 111897,
+      "sha256": "12e5bf4a1bb4ed4ec999b1d272fa7b7d0d19eac8313560a88e8181efb744c111",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/install.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/install.md",
+      "kind": "upstream",
+      "bytes": 9689,
+      "sha256": "cad2a9c490bca906604cd34e7d43c68da978f1aa6bd252b19a5a99b74f3e13cd",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/long-context.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/long-context.md",
+      "kind": "upstream",
+      "bytes": 62912,
+      "sha256": "71c8907bd72cf6fa022cd78db19a0b95fda12ebaab8f0e5099c4623ebbdba0d5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/main-track.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/main-track.md",
+      "kind": "upstream",
+      "bytes": 3735,
+      "sha256": "41a267aa802480450e7b3744cb74e4459f677bbabae325782e2e43941e2bd293",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/multi-gpu.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/multi-gpu.md",
+      "kind": "upstream",
+      "bytes": 21050,
+      "sha256": "46ad98ebbf510434e2d521f1962571556cec3042591c58021b8d2e1db3ad9de2",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/optimizations.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/optimizations.md",
+      "kind": "upstream",
+      "bytes": 28487,
+      "sha256": "cdba5b36951ca91c58941db7d3cd75fe1518aa4ce7938fa681001f650d3d33bd",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/python-314.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/python-314.md",
+      "kind": "upstream",
+      "bytes": 3762,
+      "sha256": "8767fa32b4ab4c55da4264c8a00579c91c08b56203e4df835f0834a900f0559f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/quality.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/quality.md",
+      "kind": "upstream",
+      "bytes": 3478,
+      "sha256": "44bb832c16ea563d7a9f39cda379e1c108ad011588992061fbfad443d3f3bb18",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/quickstart.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/quickstart.md",
+      "kind": "upstream",
+      "bytes": 2523,
+      "sha256": "f2a5aaf9151e8530347ffe9f4a197aabcd9272ded6b91d3ae3f5d029cd09de1f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/reproductions/5070ti-16gb-tp2.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/reproductions/5070ti-16gb-tp2.md",
+      "kind": "upstream",
+      "bytes": 2514,
+      "sha256": "867dac939c793601d126f0968778cddc1e4026d24ae1fbb6ee8d96ff9885b904",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/reproductions/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/reproductions/README.md",
+      "kind": "upstream",
+      "bytes": 29557,
+      "sha256": "0acccaef75238ba4b8dd2b73405a411a95268fa4e65db47b694f229191392f03",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/reproductions/a5000-230w.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/reproductions/a5000-230w.md",
+      "kind": "upstream",
+      "bytes": 18603,
+      "sha256": "e9dd2667ec636b0a7624a08c42c335c705c7e98ad3b36fb8cd798cb12152ec99",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/reproductions/cmp-170hx-64gb.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/reproductions/cmp-170hx-64gb.md",
+      "kind": "upstream",
+      "bytes": 5784,
+      "sha256": "f57180611f52946867e3755163a83010e7c293fe61efbc586b42d7bdd0eca283",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/reproductions/native-3090.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/reproductions/native-3090.md",
+      "kind": "upstream",
+      "bytes": 14220,
+      "sha256": "5e4b32fcc30a32e0b8d065b5576657a7fb75fdaa8d8f7af04cd22b9fb8c5f405",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/spec-decode-scratch-token-units.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/spec-decode-scratch-token-units.md",
+      "kind": "upstream",
+      "bytes": 26174,
+      "sha256": "c644a0c7b1a6a19fa2296b6ab3658f4230bc5a3fb4e1d948f5afb527cbce5b95",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/third-party-checkpoints.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/third-party-checkpoints.md",
+      "kind": "upstream",
+      "bytes": 15944,
+      "sha256": "f67ac5ee736b4b0dc34882d63d10a0ff149d903638092a5508cc2807f3023537",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/ubuntu-3090.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/ubuntu-3090.md",
+      "kind": "upstream",
+      "bytes": 7811,
+      "sha256": "56eba1f4cd6ff53ad897b2a9acae04a7572c7180cc24d2f4c97167e285f1a028",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/vllm-0.29.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/vllm-0.29.md",
+      "kind": "upstream",
+      "bytes": 42413,
+      "sha256": "bc96fbe2f61df7ffd9a61b947c66ff6f462dc836bfd968df8fea79665d2cd270",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/vllm-0.30.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/vllm-0.30.md",
+      "kind": "upstream",
+      "bytes": 18253,
+      "sha256": "7a4bdf119d8257dd94c400669a44e6c9db7a62a38cdc8adba54a62bf6792fed8",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/vllm-0.31.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/vllm-0.31.md",
+      "kind": "upstream",
+      "bytes": 14572,
+      "sha256": "c745d68f1001b984e7d81ae4c18264c89df6915d5a1131689e48fb20fcc514d3",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/docs/wsl2-4090.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:docs/wsl2-4090.md",
+      "kind": "upstream",
+      "bytes": 34517,
+      "sha256": "d5cac5fa9eecd3ed104ea084660f7b201faa0d9e6ddf3bba7b456f1ad2b194d2",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/README.md",
+      "kind": "upstream",
+      "bytes": 8713,
+      "sha256": "4078f64d598fe13fcdbfad3fb2920ecd63f2323543f54b8a3f78867055212fd9",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/capture.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/capture.py",
+      "kind": "upstream",
+      "bytes": 5965,
+      "sha256": "d446d0c47a8f94182f25f80dc8ffd1012853391adf83767bdf2d6d07c3dc40fe",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/capture_dflash2.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/capture_dflash2.py",
+      "kind": "upstream",
+      "bytes": 9711,
+      "sha256": "af2547e00aeee0c6db7eabbb44e11e5bb7ba4d6a5464a2da1ae9d06acec72fb8",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/collect_prompts.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/collect_prompts.py",
+      "kind": "upstream",
+      "bytes": 4314,
+      "sha256": "f766dfda11b63d5380d17e0cc8f818090cdf043d6ad0229b378ec528ab5b1eb8",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/export_mtp.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/export_mtp.py",
+      "kind": "upstream",
+      "bytes": 7545,
+      "sha256": "7f754c06735f845be0619c1205a7a83be4e2230eb54953109f5d7ba5cbf78f3d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/gen_data.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/gen_data.py",
+      "kind": "upstream",
+      "bytes": 3853,
+      "sha256": "7ce76dd22fafb1f8507fc9cf989ebd875da21af79599411e2042ef51db4d87d5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/gptq_lm_head.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/gptq_lm_head.py",
+      "kind": "upstream",
+      "bytes": 5656,
+      "sha256": "d8a1fb2511b189fa5fc9451a940913e72871384110147cb85ab3478716e258f6",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/gptq_utils.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/gptq_utils.py",
+      "kind": "upstream",
+      "bytes": 3484,
+      "sha256": "19faff4b86b715a5d5db9658c53b388ff95aa28b3a3c8cb606830ab3f997db49",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/quant_dflash2.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/quant_dflash2.py",
+      "kind": "upstream",
+      "bytes": 6425,
+      "sha256": "8ac39a85a82929ec1229d4f550e0e470a9c84d823086a027ec98a9bafafcb70d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/requant_mtp_gptq.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/requant_mtp_gptq.py",
+      "kind": "upstream",
+      "bytes": 3354,
+      "sha256": "11517723c4e1c81250644c0dd50dfa97cd20e8ea099c5a7e0b263b247bf93e0a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/drafter/train_mtp.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:drafter/train_mtp.py",
+      "kind": "upstream",
+      "bytes": 23493,
+      "sha256": "65e61ffa1e6c00d364b7f70a4606b76b5d092a7e1552c6cde38a232fbda927ec",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/LICENSE",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/LICENSE",
+      "kind": "upstream",
+      "bytes": 11307,
+      "sha256": "24a1d5e4f497e17d94e6d8bfdfdbc832d05d7450d57cb038977811d3a502b604",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/NOTICE",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/NOTICE",
+      "kind": "upstream",
+      "bytes": 1778,
+      "sha256": "6f5c0dbc68bfd34bbce4063d9bbed1dc94f24517da2b0be64242b541b0043c34",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/PIN",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/PIN",
+      "kind": "upstream",
+      "bytes": 630,
+      "sha256": "360e9c89b74a0f06e8cb785967533739e4b9e73e0b95696a1c1d264b076712b0",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/README.md",
+      "kind": "upstream",
+      "bytes": 6931,
+      "sha256": "ce5ff21b3350056327df4acece8a46d0b0628802d215a0c1d6540ff5df7b3541",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/build.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/build.py",
+      "kind": "upstream",
+      "bytes": 2614,
+      "sha256": "fec3da7e873dc2ce7197413bfa04278365e37a81f16bcb75fa305d13b48d45ba",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/check_upstream.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/check_upstream.py",
+      "kind": "upstream",
+      "bytes": 4546,
+      "sha256": "71456728b278bd493376b74d84ff14a7b368e6db3ffe3bc21ec6ebf7111c35b7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/fa2-fp8kv.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/fa2-fp8kv.patch",
+      "kind": "upstream",
+      "bytes": 40883,
+      "sha256": "ac7146d8c850428789f9f105c5d0ab38af6dfa1e13fa7a5cbaf1d646cf3e3d44",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/fp8_attn.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/fp8_attn.cu",
+      "kind": "upstream",
+      "bytes": 10983,
+      "sha256": "51c1f693ac5793615ae19b35378db79120708a066b34e4379629c920c18b8f2d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/block_info.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/block_info.h",
+      "kind": "upstream",
+      "bytes": 2476,
+      "sha256": "89cb30fd392372f0313db50cde8a93632ae8dc8c02a5902a245d985fc3fa609b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/cuda_check.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/cuda_check.h",
+      "kind": "upstream",
+      "bytes": 634,
+      "sha256": "723b440122cc2cc00ce9792260de83222881b930f2770c30ac6beb151851bcd9",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/dropout.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/dropout.h",
+      "kind": "upstream",
+      "bytes": 5843,
+      "sha256": "a1d14c0c10227d67bfd36bada415565f4deefa604e6eb1863d7dcc0fd8f12098",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/flash.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/flash.h",
+      "kind": "upstream",
+      "bytes": 6629,
+      "sha256": "90050b9581fe0d1f28ab6b107c1158baf6789f4feb6af7e407e9eb6b1586a53c",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/flash_fwd_kernel.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/flash_fwd_kernel.h",
+      "kind": "upstream",
+      "bytes": 81455,
+      "sha256": "93f8755b87813cf9885364860f6e7a4915d853fe9703b91210f9d4e7567e22c5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/flash_fwd_launch_template.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/flash_fwd_launch_template.h",
+      "kind": "upstream",
+      "bytes": 21246,
+      "sha256": "2b2b6da2029aceebcf5ad5c0376e708e60a6218ae48a406ab43a01e62ace296b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/hardware_info.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/hardware_info.h",
+      "kind": "upstream",
+      "bytes": 1634,
+      "sha256": "deef803b86266ec3f3c6f3f3a4c414ad91cc92d637ba9be02eec520db712cfe3",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/kernel_traits.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/kernel_traits.h",
+      "kind": "upstream",
+      "bytes": 19000,
+      "sha256": "14fec3ad6efa9ae421d77d6d3946bf4b613481cf40d5475ecf9e466d53c7ebdb",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/mask.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/mask.h",
+      "kind": "upstream",
+      "bytes": 11412,
+      "sha256": "f4970195254f1c2dc96b4883c879321bd591c82896c4b9f60b7524c26b03e20e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/namespace_config.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/namespace_config.h",
+      "kind": "upstream",
+      "bytes": 1764,
+      "sha256": "2f50a22748285224426a7d374715fc63123ad4b4153e1f46b455a87a8a07f4a5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/philox.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/philox.cuh",
+      "kind": "upstream",
+      "bytes": 1730,
+      "sha256": "81ef706f740783b4e035b8a78d7f579ee5750d4defdb2068781b3b7cb027abee",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/philox_unpack.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/philox_unpack.cuh",
+      "kind": "upstream",
+      "bytes": 266,
+      "sha256": "6ba5317ef1f8956983ec83e1d5cbca70aec3446e290ca7f24896c670af9d24d8",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/rotary.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/rotary.h",
+      "kind": "upstream",
+      "bytes": 9002,
+      "sha256": "f000eba29dade79f629849ed5dbce654d475d61826142a0f94011506be3d2427",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/softmax.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/softmax.h",
+      "kind": "upstream",
+      "bytes": 9464,
+      "sha256": "77e70b8d0dbe72f459ced29199a554a0d1e0559cad2370a2e5b5f1fa5faf73f1",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/static_switch.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/static_switch.h",
+      "kind": "upstream",
+      "bytes": 3795,
+      "sha256": "52da74dec74f8b9a26ef34bf4a311950c28c0c77b73eab8b9a169f8e65ae1616",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/headers/utils.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/headers/utils.h",
+      "kind": "upstream",
+      "bytes": 23686,
+      "sha256": "a9ea6a22e105a6edb08b790ddac9db75740918c982d97731ab8eb50347edaf65",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/install.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/install.sh",
+      "kind": "upstream",
+      "bytes": 6348,
+      "sha256": "933fc0544803aeddde0fbb34988dbebc070d42b0aba01a14fc9166ce8cf2a41b",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/licenses/flash-attention-AUTHORS",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/licenses/flash-attention-AUTHORS",
+      "kind": "upstream",
+      "bytes": 29,
+      "sha256": "f3bf4144826a62841b7f9aebc5057f75da2d32a652a573edc67250ec94a377a7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/licenses/flash-attention-BSD-3-Clause.txt",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/licenses/flash-attention-BSD-3-Clause.txt",
+      "kind": "upstream",
+      "bytes": 1558,
+      "sha256": "8c9ccb96c065e706135b6cbad279b721da6156e51f3a5f27c6b3329af9416d73",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/prefill.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/prefill.cu",
+      "kind": "upstream",
+      "bytes": 4198,
+      "sha256": "201f4bdf02b27b2119117d557ea47715dc0d02fe9787b66eaf2f3060825ceb75",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/pyproject.toml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/pyproject.toml",
+      "kind": "upstream",
+      "bytes": 575,
+      "sha256": "4f7cf663ad1aea87f883b0b6d1decf61371d7e93c0bf34237fc053ea1024bba7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/python/fa2_fp8kv_vllm/__init__.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/python/fa2_fp8kv_vllm/__init__.py",
+      "kind": "upstream",
+      "bytes": 392,
+      "sha256": "1fa10af88b175e62a36e54eff0e56e014c606906ad2680f766775fe26379ee12",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/python/fa2_fp8kv_vllm/backend.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/python/fa2_fp8kv_vllm/backend.py",
+      "kind": "upstream",
+      "bytes": 8636,
+      "sha256": "68396056ac3222fd6987124d53f7e829b4d463fa23c7588ff2db45b6e0b014e7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/python/fa2_fp8kv_vllm/paths.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/python/fa2_fp8kv_vllm/paths.py",
+      "kind": "upstream",
+      "bytes": 704,
+      "sha256": "61ba3aed23c9d2ae65ed4a3071d301a1fedc2ebabfd1b597296df083f2251c2e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/python/fa2_prefill.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/python/fa2_prefill.py",
+      "kind": "upstream",
+      "bytes": 2219,
+      "sha256": "b6e32f7946ffbe83ae9099295b2c9144186b603ec19d9acc1eede3916ebe5382",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/python/paged_prefill.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/python/paged_prefill.py",
+      "kind": "upstream",
+      "bytes": 1867,
+      "sha256": "93ace0443e20ceff0f43c1741137c522ad1a420aa64be975dc079261a257da55",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/tests/check_backend.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/tests/check_backend.py",
+      "kind": "upstream",
+      "bytes": 4430,
+      "sha256": "df8cad651ad80883465356c54b53867dec852b570ca8d0e588e1970d6d4eb4b0",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/tests/check_full.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/tests/check_full.py",
+      "kind": "upstream",
+      "bytes": 9341,
+      "sha256": "19717abc5bdb27d1941f924d1e11339472b72b14a8121eaa12bb416d1f8e9727",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/tests/check_mixed_prefill.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/tests/check_mixed_prefill.py",
+      "kind": "upstream",
+      "bytes": 8633,
+      "sha256": "822b2b64a4d24dabc20f810793ddbdb1dce1cb2c92f3b7d9e932c8df4db3d1bf",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/tests/check_replay.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/tests/check_replay.py",
+      "kind": "upstream",
+      "bytes": 4187,
+      "sha256": "95d0368759e56a82e53b968651c2f8bf4e630cf4b649d81d3ac3b32964dceb13",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/tests/check_window.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/tests/check_window.py",
+      "kind": "upstream",
+      "bytes": 3030,
+      "sha256": "2bf1c8d8120090d7905983ab1004cffc5afd52ace5d9ca4882b84551134d6494",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/fa2/tests/gate_test.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:fa2/tests/gate_test.py",
+      "kind": "upstream",
+      "bytes": 4407,
+      "sha256": "ef0ef13e64bd52673c02538f12d1c19e32f0b22e91dd037659b7ab5a8c7d3275",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/README.md",
+      "kind": "upstream",
+      "bytes": 7870,
+      "sha256": "c864c0d9ffd7b23d83f5f262901c012bc51cf6b95b04439fab133d5ef85f6224",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/model_executor/layers/quantization/kvarn/__init__.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/model_executor/layers/quantization/kvarn/__init__.py",
+      "kind": "upstream",
+      "bytes": 801,
+      "sha256": "f64436931371f89525a831e87c1adcbb0f980c5f65e6bc091a4a345db404d071",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/model_executor/layers/quantization/kvarn/config.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/model_executor/layers/quantization/kvarn/config.py",
+      "kind": "upstream",
+      "bytes": 22472,
+      "sha256": "d063a07e135e219f135f0afbeebeb70eb77805d20b1c815fc17f27acb1e81266",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/model_executor/layers/quantization/kvarn/sinkhorn.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/model_executor/layers/quantization/kvarn/sinkhorn.py",
+      "kind": "upstream",
+      "bytes": 5180,
+      "sha256": "5b96b0ab28571c855857df0625a5c79f8a916b6bb88722387e3755e99d506910",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/v1/attention/backends/kvarn_attn.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/v1/attention/backends/kvarn_attn.py",
+      "kind": "upstream",
+      "bytes": 153477,
+      "sha256": "dcfab97d33acfa5efcb6a4e9b68e87aaeeb0896d4b2d7cbfa23e5c150966555f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/v1/attention/ops/kvarn_decode.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/v1/attention/ops/kvarn_decode.py",
+      "kind": "upstream",
+      "bytes": 4515,
+      "sha256": "cfb2bf1a70883b0df6d4fbdde13c82afeb98415bd54bf8a2aad0b7425f355653",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/v1/attention/ops/kvarn_store.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/v1/attention/ops/kvarn_store.py",
+      "kind": "upstream",
+      "bytes": 11768,
+      "sha256": "cbacea4515d3bc94c69a741cc80a6b49c673f6f38781c6856b38e6038d148366",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/v1/attention/ops/triton_kvarn_decode.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/v1/attention/ops/triton_kvarn_decode.py",
+      "kind": "upstream",
+      "bytes": 69279,
+      "sha256": "3aa6c5506f3a0ab9a3d21e9e889cc19d7c2ec0ccba97c350f475c5f81769d94e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/files/vllm/v1/attention/ops/triton_kvarn_sinkhorn.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/files/vllm/v1/attention/ops/triton_kvarn_sinkhorn.py",
+      "kind": "upstream",
+      "bytes": 8753,
+      "sha256": "122e7b2dc206413877b0d622ce3892ec65d3ec27b00625a02d9726bf1832b8a3",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/install.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/install.sh",
+      "kind": "upstream",
+      "bytes": 2072,
+      "sha256": "d7ad250180d9fc4b467857b3b8bb8b0ba579da432c291acc8fe6d72133ad8b4f",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/kvarn-0.31.0.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/kvarn-0.31.0.patch",
+      "kind": "upstream",
+      "bytes": 14112,
+      "sha256": "7ce80638fedbb51c0dad672b77a6de5180b7c87f0ce4386d92f4e3a05a8640be",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/kvarn-fp16-dequant-0.31.0.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/kvarn-fp16-dequant-0.31.0.patch",
+      "kind": "upstream",
+      "bytes": 2059,
+      "sha256": "beff1287b452b6edf0569d0a49736a3b67a492502a8141861c1394b2aa20cc11",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/kvarn-recycled-pages-0.31.0.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/kvarn-recycled-pages-0.31.0.patch",
+      "kind": "upstream",
+      "bytes": 4555,
+      "sha256": "4430a406ce23cd01e168af12e3f8bbeaa0fc3ca3f1547e38fa18cb3a568f26de",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/kvarn-v2-runner-0.31.0.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/kvarn-v2-runner-0.31.0.patch",
+      "kind": "upstream",
+      "bytes": 11119,
+      "sha256": "0cc13fe48739c2740b09f8339ba41f63405117af7f70db5808c50338790e61a6",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/kvarn/tests/test_kvarn_fp16_dequant_torch.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:kvarn/tests/test_kvarn_fp16_dequant_torch.py",
+      "kind": "upstream",
+      "bytes": 9426,
+      "sha256": "16ec630b514abe0e8aa249352b0b58beb4f90c28a593647d7588801ff35f0192",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/launcher_common.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:launcher_common.sh",
+      "kind": "upstream",
+      "bytes": 11594,
+      "sha256": "9ae96732ef32da2c038763cbe6bf634df3e1a2606d9808ebdfc82bbae55e8a5d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/_check_applied.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/_check_applied.py",
+      "kind": "upstream",
+      "bytes": 2236,
+      "sha256": "6465946b174eee5783525ac57cda2d80e7b52b59473bd9c485f0e659b3ecf785",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/api-root-health.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/api-root-health.patch",
+      "kind": "upstream",
+      "bytes": 7149,
+      "sha256": "840ea2bc0df1bd48bfe50a16569b49969864f1b27e114e586517dbac2a13ec3b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/apply.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/apply.sh",
+      "kind": "upstream",
+      "bytes": 6865,
+      "sha256": "0ab8b096f7fdf2c295dfcee4da210c7a6cbce2605b9f7e512a12682d339c57e3",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/auth-deny-default.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/auth-deny-default.patch",
+      "kind": "upstream",
+      "bytes": 7916,
+      "sha256": "d8fa3da798c5fdf83534ed535be665d094c6d063c9a94a1e1c0109715f10d163",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/bench-probe-errors.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/bench-probe-errors.patch",
+      "kind": "upstream",
+      "bytes": 9960,
+      "sha256": "c942ab4f0c943db9ae1fd43df4a97dfd6f5adad7bc1011fb1493ffdef77205d9",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/bench-sse-keepalive.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/bench-sse-keepalive.patch",
+      "kind": "upstream",
+      "bytes": 4513,
+      "sha256": "295f8bdd07e1c63a4f34455e9894b126f252aa98a7bd4c9bc6ee51a6ef8aa3d5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/check_vllm_series.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/check_vllm_series.sh",
+      "kind": "upstream",
+      "bytes": 6159,
+      "sha256": "56a17e11d6d7adee5e5f1f3282914f4c46209ab032bd557360cbe31d3be76d0b",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/compile-key-runtime-knobs.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/compile-key-runtime-knobs.patch",
+      "kind": "upstream",
+      "bytes": 2350,
+      "sha256": "d8a3a05c318574aa9583cb6fa93d3d726c14c5464b9a6c3dd29c8abc5b88803f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/cudagraph-memory-from-allocator.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/cudagraph-memory-from-allocator.patch",
+      "kind": "upstream",
+      "bytes": 7015,
+      "sha256": "231999bd4891bf5baa4edd1f70a561fd9fd0dd7a14cfe545fbafab581ef1dc0a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/dflash2-lookup-drafting.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/dflash2-lookup-drafting.patch",
+      "kind": "upstream",
+      "bytes": 53812,
+      "sha256": "af5a7cae7f5a7213f0d9748098c7e88600d68981acd00b58452a516d944cbb06",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/dflash2-ngram-chains.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/dflash2-ngram-chains.patch",
+      "kind": "upstream",
+      "bytes": 16403,
+      "sha256": "8e7d875f1c6d1b403731475fc5471c8d90196581f4e66cca581f549328f2e9af",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/dflash2-prewarm.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/dflash2-prewarm.patch",
+      "kind": "upstream",
+      "bytes": 4461,
+      "sha256": "06b87122227166e3b698d0e1a8269a71f1f72e102cb23e59b9e284bc2441d9a0",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/dflash2-z-adaptive-emitted.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/dflash2-z-adaptive-emitted.patch",
+      "kind": "upstream",
+      "bytes": 2403,
+      "sha256": "5264c112ce8090352143ff9a1077f2798bd04b512972750a0323a89833053132",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/dspark-draft-quant-config.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/dspark-draft-quant-config.patch",
+      "kind": "upstream",
+      "bytes": 1950,
+      "sha256": "af38c6457b8878c92e1314d2865cf54553f795f484d7c6e0cbf029433f6b6d9b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/engine-completion-log.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/engine-completion-log.patch",
+      "kind": "upstream",
+      "bytes": 3502,
+      "sha256": "793e5cf4ef60c0dd4130b56c403ad419b6248dbf802c5df79a3a622446819ec4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/engine-stall-sentinel.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/engine-stall-sentinel.patch",
+      "kind": "upstream",
+      "bytes": 8197,
+      "sha256": "af87efddf135b1e292a69797a2fab65087fbd836e2006fd7b921e391f29bebdf",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/hybrid-kv-groups-v2-cudagraph.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/hybrid-kv-groups-v2-cudagraph.patch",
+      "kind": "upstream",
+      "bytes": 5843,
+      "sha256": "bbcba929de71e9a3e8abb742d8512bb036cc64b613317bfa3c7b74c5eda1c4ff",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/hybrid-sw-block-promote.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/hybrid-sw-block-promote.patch",
+      "kind": "upstream",
+      "bytes": 13432,
+      "sha256": "602bc9c759527e2e3ff16918f443a392453434113925fbfe5094362d8aa6d083",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/int4-kv-per-token-head.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/int4-kv-per-token-head.patch",
+      "kind": "upstream",
+      "bytes": 6958,
+      "sha256": "dfea00ab6ffe362fddbb72514abd8ab1083914ec25eefa0395e4332cc877e7fd",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/kv-cache-seat-budget.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/kv-cache-seat-budget.patch",
+      "kind": "upstream",
+      "bytes": 5848,
+      "sha256": "d4e296b41483052c380e6bb963f50accd4ee7ab43c6c4fb8df5b3c5b6abc61ff",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/mamba-align-checkpoint-order.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/mamba-align-checkpoint-order.patch",
+      "kind": "upstream",
+      "bytes": 12502,
+      "sha256": "7b647c07b0d54653350671a14fd1b6498156930dada5183dc2c0fb471113544a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/mamba-chunked-prefill-align.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/mamba-chunked-prefill-align.patch",
+      "kind": "upstream",
+      "bytes": 3591,
+      "sha256": "9ecc786bef52a771c8e94fcb430ed232754350a128a07b783c16dbab142f4446",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/marlin-int8-asym-zp.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/marlin-int8-asym-zp.patch",
+      "kind": "upstream",
+      "bytes": 3423,
+      "sha256": "a745ce49caf8c78c7827a9200fa71cd8c5a3a686af39992b82374c632b188840",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/marlin-int8-layer-select.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/marlin-int8-layer-select.patch",
+      "kind": "upstream",
+      "bytes": 3470,
+      "sha256": "62ddf2a8dec69e72a92ddb69e598ba9b966d1f8d22a015351fee1a16bfe77eb2",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/marlin-int8-negative-scales.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/marlin-int8-negative-scales.patch",
+      "kind": "upstream",
+      "bytes": 3331,
+      "sha256": "f897d9b6fb934276464a6360dc9be675f6bbad36f5a3a6d7f81b4577d6fb1b63",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/marlin-repack-staged-sm80.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/marlin-repack-staged-sm80.patch",
+      "kind": "upstream",
+      "bytes": 7430,
+      "sha256": "897ae957a50e9ca718f80f97f52a1af79dc1f88736de2c260833285016b37b71",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/marlin-tune-table.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/marlin-tune-table.patch",
+      "kind": "upstream",
+      "bytes": 4877,
+      "sha256": "f5412a2707cf08cb17ddd20925b8ccaa7decdae1001bf493d868205e89cd1713",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/memory-profile-after-warmup.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/memory-profile-after-warmup.patch",
+      "kind": "upstream",
+      "bytes": 3160,
+      "sha256": "f20810e74e263bac07d4322bcc0272903e08b1e40ecc9a63e51066257f92d3d1",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/offload-dflash-eagle-groups.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/offload-dflash-eagle-groups.patch",
+      "kind": "upstream",
+      "bytes": 4944,
+      "sha256": "396470030421d98fd3e2f9456da1eea7d0555a84d00d76caf331cb1f9c374706",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/offload-wsl2-devptr.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/offload-wsl2-devptr.patch",
+      "kind": "upstream",
+      "bytes": 6006,
+      "sha256": "b1e607a78ef37c417c2910113b46696fdc97dc3bc2426ea776b0a3f20fc9e55d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/pinned-kv-empty-cache.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/pinned-kv-empty-cache.patch",
+      "kind": "upstream",
+      "bytes": 3148,
+      "sha256": "7bcdd7deda23060e3dcb475433ef3fbc2365ad150d427102c34c97321bb57726",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/prefill-attn-int8.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/prefill-attn-int8.patch",
+      "kind": "upstream",
+      "bytes": 16352,
+      "sha256": "fc80421fd56f3dd23e9264dc834b3b4fb2fb3d7b31818243f1fc8340342321d4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/qwen3_5-embed-quant.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/qwen3_5-embed-quant.patch",
+      "kind": "upstream",
+      "bytes": 1899,
+      "sha256": "c0bbe5f534b45cbbed91d480bba788d6d98806a06d7fa9b8c303cadea40db3b4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/qwen3_5-embed-uva.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/qwen3_5-embed-uva.patch",
+      "kind": "upstream",
+      "bytes": 6001,
+      "sha256": "18737fa75480e80dbbd64da5da0aa493c26bf08bfff05e17ef9d807c2001aa79",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/qwen3_5-mtp-draft-vocab.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/qwen3_5-mtp-draft-vocab.patch",
+      "kind": "upstream",
+      "bytes": 4362,
+      "sha256": "53ff981a0c6f904c294c742482e17d33626c2bf7008d0eb930b979f484038e87",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/sampler-small-topk-fast-softmax.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/sampler-small-topk-fast-softmax.patch",
+      "kind": "upstream",
+      "bytes": 13629,
+      "sha256": "6f361c6ea6a7ef819c50642889fbadba7313ba926ff708a5541118495ac321e3",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/sampler-warmup-cuda.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/sampler-warmup-cuda.patch",
+      "kind": "upstream",
+      "bytes": 3323,
+      "sha256": "edde9d053f966e94a9e751a0008050e8cb513bed0151bb0b598cd23efbf947c5",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/series",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/series",
+      "kind": "upstream",
+      "bytes": 2335,
+      "sha256": "9f98440b9ed24d7e40c08110686056039f69ec171f791e20e91febb3cc7c94a9",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/serve-404-served-names.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/serve-404-served-names.patch",
+      "kind": "upstream",
+      "bytes": 1596,
+      "sha256": "eeaaa41ac1787353f55ee3fae0f829937c6116c2cea2eb6139c500356ad68150",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/serve-model-path-match.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/serve-model-path-match.patch",
+      "kind": "upstream",
+      "bytes": 2090,
+      "sha256": "ac5dfb278aa8bffe21b4ee875a43a9d2d2912f186a04ac663e832a8b0048b20d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/spec-attn-smem-fit.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/spec-attn-smem-fit.patch",
+      "kind": "upstream",
+      "bytes": 6015,
+      "sha256": "e2402af8fdbeff36fb79378b31753d3f6bd1a467ac4b7189cef467b516bd4914",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/spec-decode-attn.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/spec-decode-attn.patch",
+      "kind": "upstream",
+      "bytes": 17294,
+      "sha256": "1c7f1d6d0d93d2cd760f9ad010c74a32d46821c000d058b909d902689c59d5de",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/spec-decode-int4-kv-mq3d.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/spec-decode-int4-kv-mq3d.patch",
+      "kind": "upstream",
+      "bytes": 4000,
+      "sha256": "dae3dcc3ab905eb852cc704baada13344c173579f811341826e3f97ee1e8c6dd",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/spec-decode-int8-kv.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/spec-decode-int8-kv.patch",
+      "kind": "upstream",
+      "bytes": 12552,
+      "sha256": "46bbc372dfbe6acc82cdad747b2acee764484585c5687a305dbdc16303e74f7b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/spec-decode-scratch-token-units.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/spec-decode-scratch-token-units.patch",
+      "kind": "upstream",
+      "bytes": 21499,
+      "sha256": "eaf309a8c842c2e2313c365b8facb05965418c75cf2df599f936ee265b45d87e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/spec-decode-scratch-within-budget.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/spec-decode-scratch-within-budget.patch",
+      "kind": "upstream",
+      "bytes": 19213,
+      "sha256": "c8d9674fa52d0a1ae81f386449f73e7b3c1ca2c82c5fd152058c251d4c071548",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/spec-sampler-prewarm.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/spec-sampler-prewarm.patch",
+      "kind": "upstream",
+      "bytes": 5084,
+      "sha256": "da060c5af3093fa03d98464f0970b84e26d0e899607d5b44a97c4a8138d3bf64",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/speed-knobs-envs.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/speed-knobs-envs.patch",
+      "kind": "upstream",
+      "bytes": 6694,
+      "sha256": "effcac0aaae501ac1c5be15436c7113f3affc3434003f20b0c2c632c3e756841",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/tokenize-v1-route.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/tokenize-v1-route.patch",
+      "kind": "upstream",
+      "bytes": 1722,
+      "sha256": "7369c66e1a0db76edfd9de21d964f5d505f10645f77757cd1dcbd4e60e278e38",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/topk-honour-flashinfer-sampler-switch.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/topk-honour-flashinfer-sampler-switch.patch",
+      "kind": "upstream",
+      "bytes": 3535,
+      "sha256": "9bb91bc62b8df03fc7fe473a470c5c398ba4091f5bb8dedbb8975a8f8c32e29a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/triton-spec-attn-fp8-kv.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/triton-spec-attn-fp8-kv.patch",
+      "kind": "upstream",
+      "bytes": 18248,
+      "sha256": "c921c2bec4357a8aa4eefc72aff42649275d490682f84b61e7b7d5d6f2865df6",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/vision-tower-cpu-offload.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/vision-tower-cpu-offload.patch",
+      "kind": "upstream",
+      "bytes": 3202,
+      "sha256": "2d65974c0cc38adbd938434db95c928635ae6012f852068d28ea19e061e7fbd8",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/vllm-pr40371-prompt-progress.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/vllm-pr40371-prompt-progress.patch",
+      "kind": "upstream",
+      "bytes": 18507,
+      "sha256": "a1827e0f60414c7fe42078d8b9ab56292b68679e22683aef77e6cc0f475931fa",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/vllm-pr50021-gdn-spec-bounds.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/vllm-pr50021-gdn-spec-bounds.patch",
+      "kind": "upstream",
+      "bytes": 9260,
+      "sha256": "a90af3657a03bd8ebd1605eba68e70a508508d1f808bd675ece565a96ca33739",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/patches/vllm-pr61050-lru-running-prefix.patch",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:patches/vllm-pr61050-lru-running-prefix.patch",
+      "kind": "upstream",
+      "bytes": 9358,
+      "sha256": "8f4a7199a832eafcc3e70e38db963eda7e9c2a4fec37fd0fb990f831f2ae6fa2",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/README.md",
+      "kind": "upstream",
+      "bytes": 6675,
+      "sha256": "9ce9c69e317a1467932782f63cf4101dab61ab4aaa8b0341e91802d872d53f35",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/atomic_publish.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/atomic_publish.py",
+      "kind": "upstream",
+      "bytes": 2435,
+      "sha256": "82ca1ef91efa8121e94a35b0ea2633b9202ca3dec972f673de0beb4cbef15ae9",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/build_draft_vocab.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/build_draft_vocab.py",
+      "kind": "upstream",
+      "bytes": 15690,
+      "sha256": "50cafbfbc61b079031fd944f1a68aaabc5b9f40ccca09d11e2d9e18a6eeb55ab",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/draft_vocab_ids.json",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/draft_vocab_ids.json",
+      "kind": "upstream",
+      "bytes": 279256,
+      "sha256": "b64b6dfcf5441eb995ddf77d3d37b018e91b88c56ad1b4c5774ad8fbfac1c388",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/fetch_dflash2.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/fetch_dflash2.py",
+      "kind": "upstream",
+      "bytes": 1145,
+      "sha256": "7057186484310d55e1065becd17ab1bb86f7eb0b0b85c9619462300d643ae3c1",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/fetch_fast_variant.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/fetch_fast_variant.py",
+      "kind": "upstream",
+      "bytes": 3228,
+      "sha256": "5e4f23d81e64564cef4b7bc09251a9c8e3f6dbcf99a0fdd7b61160fe8960d753",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/fetch_thirdparty.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/fetch_thirdparty.py",
+      "kind": "upstream",
+      "bytes": 2476,
+      "sha256": "25987b5370c8aa269336e808e248a276da588c854d05b4ca845ff6fbd079ef54",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/harden_chat_template.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/harden_chat_template.py",
+      "kind": "upstream",
+      "bytes": 5002,
+      "sha256": "a94384b564f637251634aa9df254a7f194478cf2d1440e143d0eb85b8c3302d4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/quant_embed.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/quant_embed.py",
+      "kind": "upstream",
+      "bytes": 3164,
+      "sha256": "661be3ec23eba3c984c3cbaf829e4c00c113b5fb7b280cd80f3fde34f9e04980",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/quant_heads_stream.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/quant_heads_stream.py",
+      "kind": "upstream",
+      "bytes": 8742,
+      "sha256": "45fbf518f480deace13ed16a938ce5c1f3bab63e7665366c511c838f39b86772",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/quant_lm_head.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/quant_lm_head.py",
+      "kind": "upstream",
+      "bytes": 3055,
+      "sha256": "6fd405c7cb4bca5810858851b52cc3d5a49f2cb60546aff8848018f0a03b765e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/quant_mtp.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/quant_mtp.py",
+      "kind": "upstream",
+      "bytes": 3388,
+      "sha256": "0c3bd6786a2f0878aed6fdaf39b4f965858792bd6ee3b661b2b272041710d8dd",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/quant_schema.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/quant_schema.py",
+      "kind": "upstream",
+      "bytes": 7657,
+      "sha256": "d961ff71bea5d29cb45dd7929ec5754169ae8f73b9ed335f960843b0fec01874",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/prepare/translate_chat_template.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:prepare/translate_chat_template.py",
+      "kind": "upstream",
+      "bytes": 6188,
+      "sha256": "1c248a529f8f60b71e2a93ac0ccf39831db3340aca3830e1e3c83cd8e44bdcd9",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/LICENSE",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/LICENSE",
+      "kind": "upstream",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/NOTICE",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/NOTICE",
+      "kind": "upstream",
+      "bytes": 686,
+      "sha256": "948decbd408fbca71121f4165752cf2d9e532f29a09373731fbf09f4f912f989",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/PIN",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/PIN",
+      "kind": "upstream",
+      "bytes": 949,
+      "sha256": "3f3a03a4f7bf7525234739676531bca9a7db32347d75ce794d7e6df741d77efd",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/README.md",
+      "kind": "upstream",
+      "bytes": 4413,
+      "sha256": "98d40b48602d31bb4d0296f87693be00370020215a1cafc50626b745cb55623c",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/SHA256SUMS",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/SHA256SUMS",
+      "kind": "upstream",
+      "bytes": 2962,
+      "sha256": "31a70129b948ee5378be5af31f6230afb2f7de4c8e149b7e0d9194db9edbbc89",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/check_vendor.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/check_vendor.sh",
+      "kind": "upstream",
+      "bytes": 3183,
+      "sha256": "ee768e5a206b30e2f20184ba5657a43ec75fedc062defb4711d03a6642367c10",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/attn_args.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/attn_args.h",
+      "kind": "upstream",
+      "bytes": 7895,
+      "sha256": "2b0a885acfea141d71a4df76d7c979f731c89887eb86ee9b25d161b1e8ddc72f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/attn_combine.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/attn_combine.cu",
+      "kind": "upstream",
+      "bytes": 6497,
+      "sha256": "cc069c03ff1889dd2ab13a7ef12239404af7de4e1460dc97534f88fd1cf3e521",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/attn_decode.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/attn_decode.cuh",
+      "kind": "upstream",
+      "bytes": 23983,
+      "sha256": "cd10291392491ef4026eddb6e4a658129fc3e2fe2282a1a19d477c2305fa170b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/attn_kernel.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/attn_kernel.cuh",
+      "kind": "upstream",
+      "bytes": 33808,
+      "sha256": "406da8207e0fdba3a9af6258dfae22a9a6d309ed59904eb2dd1acb1675299d24",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/attn_launch.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/attn_launch.cu",
+      "kind": "upstream",
+      "bytes": 10009,
+      "sha256": "37e481b9ee64e758da52da60c8fa67a2268a071a0b65bf553fb1cf1453d794aa",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/attn_launch.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/attn_launch.h",
+      "kind": "upstream",
+      "bytes": 3028,
+      "sha256": "134e157d2eff5eda834ea999efd2b578b1784f36292f9a3325f7d3e1315cf778",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/cache_geometry.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/cache_geometry.cuh",
+      "kind": "upstream",
+      "bytes": 23753,
+      "sha256": "56615e23c4d98fad7b17115919e2c90aa0c2070fabaaffed3e821c05606982f0",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/combine_kernel.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/combine_kernel.cuh",
+      "kind": "upstream",
+      "bytes": 11778,
+      "sha256": "c37d275512b8688f186170a232a8dc2eecb78050cd4e98e773d0cc6e5d32bb49",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/dequant.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/dequant.cuh",
+      "kind": "upstream",
+      "bytes": 7616,
+      "sha256": "af255cdba7324777dfea0036ae9f0996c27924929ce903621db2802dc25bb716",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/instantiate_d128.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/instantiate_d128.cu",
+      "kind": "upstream",
+      "bytes": 787,
+      "sha256": "60eb8bf0d6ab64069a7d36e0871b238d4b8b87e3abe1e982e8e49bfaa02264e7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/instantiate_d256.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/instantiate_d256.cu",
+      "kind": "upstream",
+      "bytes": 961,
+      "sha256": "560c105156adc469fe4314c28db2c9767a35a590944faad90b0ce565c49ddfc8",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/instantiate_d64.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/instantiate_d64.cu",
+      "kind": "upstream",
+      "bytes": 800,
+      "sha256": "0c462d4b0c45e8bd878e130c9088d37e376fad12f028cf93e737c8d230a26ba6",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/launch.cu",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/launch.cu",
+      "kind": "upstream",
+      "bytes": 25416,
+      "sha256": "44e2116296a795b53011f092c9a3f2c1aee5e169c2fead8ea062254dbd104f2e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/loader.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/loader.cuh",
+      "kind": "upstream",
+      "bytes": 22662,
+      "sha256": "1d05679f8569f061312be0cf7091ac9ac260f30f7a738b6ac40bbaa859c6df16",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/mask.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/mask.cuh",
+      "kind": "upstream",
+      "bytes": 3940,
+      "sha256": "1be6afb802bc3912702bc81e3f34d43bf5df8c7eb0ca7d7a550923457f94c82f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/ops.h",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/ops.h",
+      "kind": "upstream",
+      "bytes": 4057,
+      "sha256": "20f822b05f6ef78dd9b4432a01fffc49b4b3249e391605cf8bed44774db94b88",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/ptx.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/ptx.cuh",
+      "kind": "upstream",
+      "bytes": 14599,
+      "sha256": "f6ad23b60bf5e79fd745a33cd31cb9707bbfc172db51563dc8bda8ff2c625ff4",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/smem_layout.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/smem_layout.cuh",
+      "kind": "upstream",
+      "bytes": 10219,
+      "sha256": "db8975b3a706232b2f0ce1f5be37840dd9f29d2cd27dec7e1414fdf8b72c2b5d",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/softmax.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/softmax.cuh",
+      "kind": "upstream",
+      "bytes": 6326,
+      "sha256": "55b55f33743c8e109d345d75a93634c490cff480d85d9a21d8cd80e16f52e719",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/tile_traits.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/tile_traits.cuh",
+      "kind": "upstream",
+      "bytes": 8645,
+      "sha256": "89f3400835c601c2de15e07b90226e940ab8236321f40bbdbee58e92fc8412a7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/tiling.cuh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/tiling.cuh",
+      "kind": "upstream",
+      "bytes": 8978,
+      "sha256": "62acdbc6c40285d10b9b5ec72e6994f7185b1e61ce4a1a3857db1487eb24b3f3",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/csrc/pth_attn/torch_bindings.cpp",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/csrc/pth_attn/torch_bindings.cpp",
+      "kind": "upstream",
+      "bytes": 1662,
+      "sha256": "1754cd70b20a28f3e952ee02fc6ac35c9df3d06888948f4a34ef3068895e10c3",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/install.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/install.sh",
+      "kind": "upstream",
+      "bytes": 6377,
+      "sha256": "f5412fd1b4fc02a968d1fa1cf40472f08b5f0e8a3e7ddc4505f45e373969d847",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/pyproject.toml",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/pyproject.toml",
+      "kind": "upstream",
+      "bytes": 5762,
+      "sha256": "994ffe09945db123627ad3de1a5decdd0c9e6725ea8fc22858bedfc671a0056a",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/python/pth_flash_attn/__init__.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/python/pth_flash_attn/__init__.py",
+      "kind": "upstream",
+      "bytes": 436,
+      "sha256": "953e079ea167ced82864aa61031110087c3fdd3a76f30854df52aa7807a042e2",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/python/pth_flash_attn/ops.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/python/pth_flash_attn/ops.py",
+      "kind": "upstream",
+      "bytes": 14761,
+      "sha256": "17531b49d5de3aea9218632fc22a71f813e47f5b200ca1818f316bc06bda6f85",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/python/pth_flash_attn/planner.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/python/pth_flash_attn/planner.py",
+      "kind": "upstream",
+      "bytes": 15963,
+      "sha256": "d20e63600ac67154b500106232d4cdc82d6189388146c1635f397dd54631c4ed",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/python/pth_flash_attn/plugin.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/python/pth_flash_attn/plugin.py",
+      "kind": "upstream",
+      "bytes": 1859,
+      "sha256": "2a2920a8c64b51e32b7d567749fd4f9c57983716a59bfe0ed1237552ee6d406b",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/python/pth_flash_attn/vllm_backend.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/python/pth_flash_attn/vllm_backend.py",
+      "kind": "upstream",
+      "bytes": 32674,
+      "sha256": "23b012130d75917c73df175ba3192a07551fcefa3ffcd757179c624da06d0d0e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/setup.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/setup.py",
+      "kind": "upstream",
+      "bytes": 2887,
+      "sha256": "9bfe1dfad6d65c36c4d3f48624ab7f35247887798430900f29c34b17a9fa0258",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/tests/gate_test.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/tests/gate_test.py",
+      "kind": "upstream",
+      "bytes": 11121,
+      "sha256": "4e95c8c9b8eac2003360640c192201b0ffde1a6f6d5e81ae5ad1d0db8ba63aff",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/pthfa/tools/build_flags.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:pthfa/tools/build_flags.py",
+      "kind": "upstream",
+      "bytes": 3915,
+      "sha256": "507939b2dfef8838ea0693b5f5dc788d5aeebdc59af9db423d1c0dc5737d2aa7",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/resolve_api_key.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:resolve_api_key.sh",
+      "kind": "upstream",
+      "bytes": 1952,
+      "sha256": "65626aee27d586f8d5350fcd30b87d3ef8b5a1de6c7d97ec6b4afda2d7960b10",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/resolve_config.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:resolve_config.sh",
+      "kind": "upstream",
+      "bytes": 11458,
+      "sha256": "9471956f7e69b4219b402462213488d5aa0d408b0023124516dcdd28f8560688",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/check_verify_graded.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/check_verify_graded.py",
+      "kind": "upstream",
+      "bytes": 2429,
+      "sha256": "937e272c9ebbd1f890816c6de85981c3138f205ec3d7d2a221b8804d55514c56",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/export-patch.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/export-patch.sh",
+      "kind": "upstream",
+      "bytes": 1909,
+      "sha256": "ccad6705c512fdca8b688fcc4628d4082bb3c8519573a175e6d5fa76fdd3b0c6",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/hq-doctor.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/hq-doctor.sh",
+      "kind": "upstream",
+      "bytes": 3192,
+      "sha256": "619cde7bd00af518ff5d70d9f111497fb4c8429fd760b56547b3e9fb99efe53d",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/patches_md.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/patches_md.py",
+      "kind": "upstream",
+      "bytes": 3937,
+      "sha256": "a6db860123250e1638b777ec32866c67e8267dbcfacbca42c2e8d471ac2a5f09",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/pin-bump.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/pin-bump.py",
+      "kind": "upstream",
+      "bytes": 7056,
+      "sha256": "e95a3b9e13751318c99304ecfdcaf80725b97f2686716d11907c1cd714e1b296",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/port-changed-signatures.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/port-changed-signatures.py",
+      "kind": "upstream",
+      "bytes": 23779,
+      "sha256": "95508560cea5e4ff30ca49122832df26aeb1b1e5c396ddc73ae1f8fa0f6c7417",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/port-drift.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/port-drift.sh",
+      "kind": "upstream",
+      "bytes": 3071,
+      "sha256": "ffeb21a6c51da83cc71d06ae998ca14527f1cacd3d545c4571bc46ce0e2b25be",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/port-removed-names.py",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/port-removed-names.py",
+      "kind": "upstream",
+      "bytes": 4878,
+      "sha256": "2fd08fa86f47e67473df799fefc540a13cee2d2fc675ae622d986948a3e4730f",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/port-triage.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/port-triage.sh",
+      "kind": "upstream",
+      "bytes": 4853,
+      "sha256": "c209e9a5dfa9553483f8b3d5a6fad5eb9d9566fbe374c4a875f29b3eeb970628",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/scripts/test_export_patch.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:scripts/test_export_patch.sh",
+      "kind": "upstream",
+      "bytes": 1357,
+      "sha256": "f2d8cd1121709b7bdbaf027dcc63135e99fda4870c5ea718774f6456990d927e",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/single-user/README.md",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:single-user/README.md",
+      "kind": "upstream",
+      "bytes": 43377,
+      "sha256": "5e2bf24bb5e93ac52fe86e2cda5efdeb67da2ad81dc1606f69133b41255a0aea",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/single-user/alternative.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:single-user/alternative.sh",
+      "kind": "upstream",
+      "bytes": 9512,
+      "sha256": "7feaf2285b2cd74d3ac2974c9ada731300c572bfb491bada122da24afc1d0637",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/single-user/qwen-server.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:single-user/qwen-server.sh",
+      "kind": "upstream",
+      "bytes": 3974,
+      "sha256": "bf63416cb533ae28e4e5aee61c6344bd32a4259e96a2819dc3f2a35c2307d740",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/single-user/qwen-serving.service",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:single-user/qwen-serving.service",
+      "kind": "upstream",
+      "bytes": 945,
+      "sha256": "7250acebbcbdac82ed221c0ede064fbc9b5b1ce9a9b7f18cc42519dec6375b64",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/single-user/select_model.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:single-user/select_model.sh",
+      "kind": "upstream",
+      "bytes": 373,
+      "sha256": "ba98eada2d51f3761fbb526bd5f2daac6914ff2feac769d5a78910ba5eaf0908",
+      "mode": "100644"
+    },
+    {
+      "path": "upstream/HyperQwen/single-user/start_qwen.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:single-user/start_qwen.sh",
+      "kind": "upstream",
+      "bytes": 71089,
+      "sha256": "0633944971fed6c8b95fc9833e0c03670f5d9bb95050c0bdb408bebc86ff19b8",
+      "mode": "100755"
+    },
+    {
+      "path": "upstream/HyperQwen/verify.sh",
+      "source": "HyperQwen@95ac251bc3b71017c883e83004cf4fb188d066a4:verify.sh",
+      "kind": "upstream",
+      "bytes": 35896,
+      "sha256": "cfdd31256d33d76bf29343b06716b81ebc7e07800d2086039d31992914a59cee",
+      "mode": "100755"
+    },
+    {
+      "path": "logs/baseline-server.log",
+      "source": "logs/baseline-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 27493,
+      "sha256": "5ea2236db31eeee46f73a81b34ca9dd5fc627e6f19cdc920c48d4bc15662250d"
+    },
+    {
+      "path": "logs/mtp-best-server.log",
+      "source": "logs/mtp-best-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 22856,
+      "sha256": "e7f0a093064c27aee3f397f0afe7e1f250b48336ebd336bfb766235871e63a35"
+    },
+    {
+      "path": "logs/mtp-full-vocab-server.log",
+      "source": "logs/mtp-full-vocab-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 29672,
+      "sha256": "75a88e1906071be778c02d9c0d3b78d3fd5fad27704f4a66a6ff554fcd52d11a"
+    },
+    {
+      "path": "logs/mtp-k2-server.log",
+      "source": "logs/mtp-k2-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 30472,
+      "sha256": "073f7db0cbc5bbd7faadf408facc89440f789b1f729826b900a09ec34ebebe3e"
+    },
+    {
+      "path": "logs/mtp-k4-server.log",
+      "source": "logs/mtp-k4-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 32999,
+      "sha256": "17a9ce5d2a6dca6eaec24db17dccdf81678654d6f0addad6c8edd4422f43fe2c"
+    },
+    {
+      "path": "logs/mtp-prefix-cache-server.log",
+      "source": "logs/mtp-prefix-cache-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 62608,
+      "sha256": "03ea82e331e4c626e3de8598870f5880eea421dd86ce7f81ddb15892feaed515"
+    },
+    {
+      "path": "logs/mtp-small-vocab-server.log",
+      "source": "logs/mtp-small-vocab-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 31041,
+      "sha256": "646bfdf52a889b087ec74f18da06e9f7232867dcedcf9a328df64c66a6a12146"
+    },
+    {
+      "path": "logs/mtp-spec-attn-server.log",
+      "source": "logs/mtp-spec-attn-server.log",
+      "kind": "redacted-server-log",
+      "bytes": 32169,
+      "sha256": "63f015b2e20aee523c53a6cf0744c0e18b4109510779525dac4a3187af5df393"
+    },
+    {
+      "path": "configs/model/README.md",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/README.md",
+      "kind": "server-model-metadata",
+      "bytes": 7556,
+      "sha256": "fb3687f3ebc05f69ee8b5afd5b78a8e55d6f80962547adb85cc5dad14151f43b"
+    },
+    {
+      "path": "configs/model/chat_template.jinja",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/chat_template.jinja",
+      "kind": "server-model-metadata",
+      "bytes": 8952,
+      "sha256": "c3cf9e34abf4f9e36c2d72165aa9c132d3e2a725b6c2586aaa3a8af9d7a81041"
+    },
+    {
+      "path": "configs/model/config.json",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/config.json",
+      "kind": "server-model-metadata",
+      "bytes": 17060,
+      "sha256": "eddb28f7ebde545670068a93c029d4b399c9649f6e847d087f0846268632d485"
+    },
+    {
+      "path": "configs/model/config.json.bak-mtp",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/config.json.bak-mtp",
+      "kind": "server-model-metadata",
+      "bytes": 16751,
+      "sha256": "cecc19809a044b88511e9193264049da3fa3de5731df62c5d21c1cf4250f46fd"
+    },
+    {
+      "path": "configs/model/config.json.bak-quant",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/config.json.bak-quant",
+      "kind": "server-model-metadata",
+      "bytes": 15587,
+      "sha256": "3176e8ef1f8a6a11ca189436a8ad9245973d420a4eb5acca67be3fb0a5d2f98c"
+    },
+    {
+      "path": "configs/model/generation_config.json",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/generation_config.json",
+      "kind": "server-model-metadata",
+      "bytes": 219,
+      "sha256": "1a450b75a54bf9e6ffdc681d8b764d453061dd2d271df33fcfed46949b67c3de"
+    },
+    {
+      "path": "configs/model/model.safetensors.index.json",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/model.safetensors.index.json",
+      "kind": "server-model-metadata",
+      "bytes": 200180,
+      "sha256": "0821f46e4a9888262e8f63d5a3c39e3be93e62fa3acd95febeb9a2c9bd9131a1"
+    },
+    {
+      "path": "configs/model/model.safetensors.index.json.bak-mtp",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/model.safetensors.index.json.bak-mtp",
+      "kind": "server-model-metadata",
+      "bytes": 198612,
+      "sha256": "d96e1d1a01dd2ad852fd34bd7624917a96731aa4d15f48c4aaba5217b6525552"
+    },
+    {
+      "path": "configs/model/model.safetensors.index.json.bak-quant",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/model.safetensors.index.json.bak-quant",
+      "kind": "server-model-metadata",
+      "bytes": 198290,
+      "sha256": "43b30ffd1e2f940a08e2ea03f6039ad26008949af74158855beeec2b2cd79a86"
+    },
+    {
+      "path": "configs/model/mtp_draft_vocab_ids.json",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/mtp_draft_vocab_ids.pt: int64 storage without loading pickle",
+      "kind": "draft-vocabulary-ids",
+      "bytes": 279257,
+      "sha256": "6e33e3d1cb85b91ed4fe4ce7a4ead88de7ce9e9bd223f81220c09a0703e5312f"
+    },
+    {
+      "path": "configs/model/processor_config.json",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/processor_config.json",
+      "kind": "server-model-metadata",
+      "bytes": 1191,
+      "sha256": "d89ef49ce9cd37fbf510158e13c1ef063d9286411c1ec9049932dbe0487143b1"
+    },
+    {
+      "path": "configs/model/quantization_config.json",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/quantization_config.json",
+      "kind": "server-model-metadata",
+      "bytes": 11112,
+      "sha256": "2f3122aa57dd2f35fda8e08f3e1c0ca4e16b72a6eda3f26a435455dfe7fd2d50"
+    },
+    {
+      "path": "configs/model/tokenizer_config.json",
+      "source": "models/Qwen3.8-27B-W4A16-AutoRound/tokenizer_config.json",
+      "kind": "server-model-metadata",
+      "bytes": 1166,
+      "sha256": "5f7aa0d810000c4a0940b35c8f16e56c3439260fccc13a321826ebc3ccf2501f"
+    },
+    {
+      "path": "configs/model-format-check.json",
+      "source": "models/model_format_check.log",
+      "kind": "server-model-metadata",
+      "bytes": 477,
+      "sha256": "e342b0af66d6f3bfdf128671a363fabfdc5632b02a2422b7af44f1924fa28aa8"
+    },
+    {
+      "path": "configs/launch-options.json",
+      "source": "shell history: allowlisted launch options only",
+      "kind": "recovered-config",
+      "bytes": 2204,
+      "sha256": "82df8e622e1a75e09c4efa9edff9c4b16ec5f48a302c465bbb29b9e88b6322f3"
+    },
+    {
+      "path": "repro/history/sse_decode_early.py",
+      "source": "shell history: extracted Python block 416:534",
+      "kind": "recovered-script",
+      "bytes": 3420,
+      "sha256": "eee5afc2aea19ad671c8992af284bc8a02d5c505f27db42e3c5ab01367382077"
+    },
+    {
+      "path": "repro/history/inspect_791.py",
+      "source": "shell history: extracted Python block 791:811",
+      "kind": "recovered-script",
+      "bytes": 537,
+      "sha256": "6a8d12fbc90748c653d0ca0ab3d88de482f6b280177061a5bd244e97712ed194"
+    },
+    {
+      "path": "repro/history/spec_metrics_delta.py",
+      "source": "shell history: extracted Python block 868:931",
+      "kind": "recovered-script",
+      "bytes": 1977,
+      "sha256": "02261a8a3d54bb5846529ae0b124f15371baa6cc1c6555dc6f9bc5193391e4b3"
+    },
+    {
+      "path": "repro/history/prefix_cache_probe.py",
+      "source": "shell history: extracted Python block 1321:1401",
+      "kind": "recovered-script",
+      "bytes": 2595,
+      "sha256": "2986ad2398de9a2760b1c93774aa7badeeeb5d64aac26466653c002064268f38"
+    },
+    {
+      "path": "repro/history/index.json",
+      "source": "selected experiment snippets",
+      "kind": "recovered-index",
+      "bytes": 1249,
+      "sha256": "2ff4ef34f938d0f22cc0221a398de48fda1d711eaf0d76202ad3ccd99e8e9e47"
+    },
+    {
+      "path": "configs/package-dist-info.txt",
+      "source": "server venv distribution directory names",
+      "kind": "environment-inventory",
+      "bytes": 6182,
+      "sha256": "869f86be5c3d2a3a34c059b52a477abf37ed0b527f240f9cac02f60bc1ae131b"
+    }
+  ],
+  "excluded_upstream": [
+    "docs/media/demo.avif",
+    "docs/media/demo.mp4"
+  ],
+  "retained_on_server": [
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/.gitattributes",
+      "bytes": 1570
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00001-of-00007.safetensors",
+      "bytes": 3211003472
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00002-of-00007.safetensors",
+      "bytes": 3195027104
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00003-of-00007.safetensors",
+      "bytes": 3195027104
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00004-of-00007.safetensors",
+      "bytes": 3217442568
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00005-of-00007.safetensors",
+      "bytes": 699275200
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00006-of-00007.safetensors",
+      "bytes": 1291274752
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00006-of-00007.safetensors.bak_embed",
+      "bytes": 2542807272
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00007-of-00007.safetensors",
+      "bytes": 1291264320
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model-00007-of-00007.safetensors.bak",
+      "bytes": 2542796896
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model_extra_tensors.safetensors",
+      "bytes": 644356792
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model_extra_tensors.safetensors.bak-draft",
+      "bytes": 431364472
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/model_extra_tensors.safetensors.bak-mtp",
+      "bytes": 849400392
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/mtp_draft_vocab_ids.pt",
+      "bytes": 329426
+    },
+    {
+      "path": "models/Qwen3.8-27B-W4A16-AutoRound/tokenizer.json",
+      "bytes": 19989325
+    }
+  ],
+  "upstream_commit": "95ac251bc3b71017c883e83004cf4fb188d066a4",
+  "upstream_repo": "https://github.com/syv-ai/HyperQwen",
+  "recorded_upstream_commit": "95ac251bc3b71017c883e83004cf4fb188d066a4",
+  "file_count": 336
+}

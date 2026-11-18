@@ -1,0 +1,18 @@
+{
+  "目录": "<HYPERQWEN_ROOT>/models/Qwen3.8-27B-W4A16-AutoRound",
+  "quant_method": "compressed-tensors",
+  "packing_format": null,
+  "format": "pack-quantized",
+  "bits": null,
+  "分组位宽": {
+    "group_0": 4,
+    "group_1": 8,
+    "group_2": 8,
+    "group_3": 8
+  },
+  "打包张量示例": [
+    "model.language_model.layers.0.linear_attn.out_proj.weight_packed",
+    "model.language_model.layers.0.linear_attn.in_proj_qkv.weight_packed"
+  ],
+  "MTP张量数": 34
+}

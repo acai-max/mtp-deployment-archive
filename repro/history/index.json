@@ -1,0 +1,57 @@
+[
+  {
+    "history_line": 416,
+    "name": "sse_decode_early",
+    "path": "repro/history/sse_decode_early.py"
+  },
+  {
+    "history_line": 543,
+    "name": "sse_decode_baseline",
+    "path": "repro/history/sse_decode_early.py"
+  },
+  {
+    "history_line": 670,
+    "name": "sse_decode_full_vocab",
+    "path": "repro/history/sse_decode_early.py"
+  },
+  {
+    "history_line": 791,
+    "name": "inspect_791",
+    "path": "repro/history/inspect_791.py"
+  },
+  {
+    "history_line": 816,
+    "name": "inspect_816",
+    "path": "repro/history/inspect_791.py"
+  },
+  {
+    "history_line": 839,
+    "name": "inspect_839",
+    "path": "repro/history/inspect_791.py"
+  },
+  {
+    "history_line": 868,
+    "name": "spec_metrics_delta",
+    "path": "repro/history/spec_metrics_delta.py"
+  },
+  {
+    "history_line": 940,
+    "name": "sse_decode_spec_attention",
+    "path": "repro/history/sse_decode_early.py"
+  },
+  {
+    "history_line": 1065,
+    "name": "sse_decode_k4",
+    "path": "repro/history/sse_decode_early.py"
+  },
+  {
+    "history_line": 1194,
+    "name": "sse_decode_k2",
+    "path": "repro/history/sse_decode_early.py"
+  },
+  {
+    "history_line": 1321,
+    "name": "prefix_cache_probe",
+    "path": "repro/history/prefix_cache_probe.py"
+  }
+]
